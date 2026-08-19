@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3432266,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T01:07:08Z",
+            "last_commit": "2026-08-19T12:35:58Z",
             "owner": "JetBrains",
             "repo": "kotlin",
-            "stars": 53354
+            "stars": 53352
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 17946069,
             "language": "Kotlin",
             "last_commit": "2019-07-15T09:15:04Z",
             "owner": "Kotlin",
@@ -35,7 +37,7 @@
       "title": "Website"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95189138,
             "language": "Kotlin",
             "last_commit": "2024-08-06T08:22:02Z",
             "owner": "alibaba",
             "repo": "p3c",
-            "stars": 30832
+            "stars": 30834
           }
         },
         {
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34824499,
             "language": "Kotlin",
             "last_commit": "2026-08-11T14:08:39Z",
             "owner": "square",
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92297825,
             "language": "Kotlin",
             "last_commit": "2025-06-18T04:21:02Z",
             "owner": "RikkaApps",
             "repo": "Shizuku",
-            "stars": 29017
+            "stars": 29052
           }
         },
         {
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26102180,
             "language": "Kotlin",
             "last_commit": "2023-02-06T02:57:13Z",
             "owner": "afollestad",
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293498508,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T13:27:38Z",
+            "last_commit": "2026-08-19T03:16:11Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19306
+            "stars": 19307
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58034548,
             "language": "Kotlin",
             "last_commit": "2024-04-22T19:22:36Z",
             "owner": "google",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58034548,
             "language": "Kotlin",
             "last_commit": "2024-04-22T19:22:36Z",
             "owner": "google",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24186761,
             "language": "Kotlin",
             "last_commit": "2019-12-05T08:59:41Z",
             "owner": "Kotlin",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24186761,
             "language": "Kotlin",
             "last_commit": "2019-12-05T08:59:41Z",
             "owner": "Kotlin",
@@ -170,8 +181,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40136600,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T15:39:24Z",
+            "last_commit": "2026-08-19T12:31:10Z",
             "owner": "ktorio",
             "repo": "ktor",
             "stars": 14500
@@ -184,8 +196,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40136600,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T15:39:24Z",
+            "last_commit": "2026-08-19T12:31:10Z",
             "owner": "ktorio",
             "repo": "ktor",
             "stars": 14500
@@ -198,8 +211,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61722736,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T14:50:31Z",
+            "last_commit": "2026-08-19T12:15:55Z",
             "owner": "Kotlin",
             "repo": "kotlinx.coroutines",
             "stars": 13806
@@ -212,8 +226,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61722736,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T14:50:31Z",
+            "last_commit": "2026-08-19T12:15:55Z",
             "owner": "Kotlin",
             "repo": "kotlinx.coroutines",
             "stars": 13806
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201684760,
             "language": "Kotlin",
             "last_commit": "2026-08-17T17:10:36Z",
             "owner": "coil-kt",
@@ -240,11 +256,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60159997,
             "language": "Kotlin",
             "last_commit": "2026-08-18T19:07:09Z",
             "owner": "YiiGuxing",
             "repo": "TranslationPlugin",
-            "stars": 11813
+            "stars": 11814
           }
         },
         {
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30120110,
             "language": "Kotlin",
             "last_commit": "2026-08-17T21:06:47Z",
             "owner": "mikepenz",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28340997,
             "language": "Kotlin",
             "last_commit": "2023-12-30T20:00:42Z",
             "owner": "wasabeef",
@@ -282,11 +301,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111605778,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T07:16:06Z",
+            "last_commit": "2026-08-19T11:39:35Z",
             "owner": "yairm210",
             "repo": "Unciv",
-            "stars": 11107
+            "stars": 11108
           }
         },
         {
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11495787,
             "language": "Kotlin",
             "last_commit": "2026-08-17T12:17:05Z",
             "owner": "JakeWharton",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36814724,
             "language": "Kotlin",
             "last_commit": "2026-08-16T08:02:21Z",
             "owner": "AppIntro",
@@ -324,8 +346,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1459486,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T09:07:18Z",
+            "last_commit": "2026-08-19T11:30:49Z",
             "owner": "JetBrains",
             "repo": "ideavim",
             "stars": 10252
@@ -338,11 +361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93515203,
             "language": "Kotlin",
             "last_commit": "2026-06-15T08:55:27Z",
             "owner": "InsertKoinIO",
             "repo": "koin",
-            "stars": 10014
+            "stars": 10012
           }
         },
         {
@@ -352,11 +376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93515203,
             "language": "Kotlin",
             "last_commit": "2026-06-15T08:55:27Z",
             "owner": "InsertKoinIO",
             "repo": "koin",
-            "stars": 10014
+            "stars": 10012
           }
         },
         {
@@ -366,11 +391,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32775739,
             "language": "Kotlin",
             "last_commit": "2021-11-18T17:51:21Z",
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9571
+            "stars": 9570
           }
         },
         {
@@ -380,11 +406,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11765017,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T14:24:23Z",
+            "last_commit": "2026-08-19T06:34:47Z",
             "owner": "JetBrains",
             "repo": "Exposed",
-            "stars": 9281
+            "stars": 9282
           }
         },
         {
@@ -394,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11765017,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T14:24:23Z",
+            "last_commit": "2026-08-19T06:34:47Z",
             "owner": "JetBrains",
             "repo": "Exposed",
-            "stars": 9281
+            "stars": 9282
           }
         },
         {
@@ -408,11 +436,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17812502,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T18:38:38Z",
+            "last_commit": "2026-08-19T12:17:04Z",
             "owner": "lysine-dev",
             "repo": "okio",
-            "stars": 9028
+            "stars": 9030
           }
         },
         {
@@ -422,11 +451,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135088590,
             "language": "Kotlin",
             "last_commit": "2026-04-06T02:43:10Z",
             "owner": "zhanghai",
             "repo": "MaterialFiles",
-            "stars": 8766
+            "stars": 8769
           }
         },
         {
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87012358,
             "language": "Kotlin",
             "last_commit": "2026-08-15T16:29:24Z",
             "owner": "javalin",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 247263904,
             "language": "Kotlin",
             "last_commit": "2022-03-14T13:59:17Z",
             "owner": "TeamVanced",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261392630,
             "language": "Kotlin",
             "last_commit": "2025-08-18T20:49:30Z",
             "owner": "google",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61435800,
             "language": "Kotlin",
             "last_commit": "2026-03-05T07:33:10Z",
             "owner": "zetbaitsu",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23095938,
             "language": "Kotlin",
             "last_commit": "2023-10-16T06:34:13Z",
             "owner": "ReactiveX",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23095938,
             "language": "Kotlin",
             "last_commit": "2023-10-16T06:34:13Z",
             "owner": "ReactiveX",
@@ -520,11 +556,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71729669,
             "language": "MDX",
-            "last_commit": "2026-08-19T01:04:19Z",
+            "last_commit": "2026-08-19T12:16:36Z",
             "owner": "detekt",
             "repo": "detekt",
-            "stars": 7029
+            "stars": 7030
           }
         },
         {
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58957623,
             "language": "Kotlin",
             "last_commit": "2021-08-10T12:31:53Z",
             "owner": "JetBrains",
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58957623,
             "language": "Kotlin",
             "last_commit": "2021-08-10T12:31:53Z",
             "owner": "JetBrains",
@@ -562,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293227683,
             "language": "Kotlin",
             "last_commit": "2026-06-28T12:31:21Z",
             "owner": "Gurupreet",
@@ -576,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44677680,
             "language": "Kotlin",
             "last_commit": "2026-08-17T06:22:39Z",
             "owner": "sqldelight",
@@ -590,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44677680,
             "language": "Kotlin",
             "last_commit": "2026-08-17T06:22:39Z",
             "owner": "sqldelight",
@@ -604,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64293719,
             "language": "Kotlin",
             "last_commit": "2026-08-17T10:48:40Z",
             "owner": "ktlint",
@@ -618,11 +661,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201228816,
             "language": "Kotlin",
             "last_commit": "2026-08-17T07:40:49Z",
             "owner": "gotson",
             "repo": "komga",
-            "stars": 6574
+            "stars": 6577
           }
         },
         {
@@ -632,11 +676,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5890835,
             "language": "Kotlin",
             "last_commit": "2026-08-07T03:09:31Z",
             "owner": "ACRA",
             "repo": "acra",
-            "stars": 6503
+            "stars": 6504
           }
         },
         {
@@ -646,11 +691,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116107171,
             "language": "Kotlin",
             "last_commit": "2026-08-16T07:44:11Z",
             "owner": "Mygod",
             "repo": "VPNHotspot",
-            "stars": 6318
+            "stars": 6320
           }
         },
         {
@@ -660,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69291380,
             "language": "Kotlin",
             "last_commit": "2024-06-11T06:11:21Z",
             "owner": "dbacinski",
@@ -674,11 +721,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97827246,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T14:17:07Z",
+            "last_commit": "2026-08-19T10:00:08Z",
             "owner": "Kotlin",
             "repo": "kotlinx.serialization",
-            "stars": 5940
+            "stars": 5941
           }
         },
         {
@@ -688,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139500036,
             "language": "Kotlin",
             "last_commit": "2026-02-07T00:18:41Z",
             "owner": "airbnb",
@@ -702,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107331132,
             "language": "Kotlin",
             "last_commit": "2026-08-08T21:25:07Z",
             "owner": "mockk",
@@ -716,11 +766,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64845938,
             "language": "Kotlin",
             "last_commit": "2022-08-28T04:51:44Z",
             "owner": "drakeet",
             "repo": "MultiType",
-            "stars": 5757
+            "stars": 5756
           }
         },
         {
@@ -730,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182417603,
             "language": "Kotlin",
             "last_commit": "2026-08-13T09:41:50Z",
             "owner": "kizitonwose",
@@ -744,11 +796,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80848838,
             "language": "Kotlin",
             "last_commit": "2023-07-21T08:28:18Z",
             "owner": "Tapadoo",
             "repo": "Alerter",
-            "stars": 5507
+            "stars": 5506
           }
         },
         {
@@ -758,11 +811,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11512043,
             "language": "Kotlin",
             "last_commit": "2026-08-15T17:26:22Z",
             "owner": "tasks",
             "repo": "tasks",
-            "stars": 5487
+            "stars": 5489
           }
         },
         {
@@ -772,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26061231,
             "language": "Kotlin",
             "last_commit": "2026-04-08T06:26:54Z",
             "owner": "mikepenz",
@@ -786,11 +841,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22572203,
             "language": "Kotlin",
             "last_commit": "2025-10-04T22:07:03Z",
             "owner": "diogobernardino",
             "repo": "williamchart",
-            "stars": 5103
+            "stars": 5102
           }
         },
         {
@@ -800,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35272152,
             "language": "Kotlin",
             "last_commit": "2021-01-22T21:31:15Z",
             "owner": "android",
@@ -814,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182968735,
             "language": "Kotlin",
             "last_commit": "2026-08-09T00:58:12Z",
             "owner": "didi",
@@ -828,11 +886,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16598287,
             "language": "Kotlin",
             "last_commit": "2026-08-11T04:30:19Z",
             "owner": "muzei",
             "repo": "muzei",
-            "stars": 4934
+            "stars": 4935
           }
         },
         {
@@ -842,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24161015,
             "language": "Kotlin",
             "last_commit": "2022-03-15T02:19:57Z",
             "owner": "agrosner",
@@ -856,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47071082,
             "language": "Kotlin",
             "last_commit": "2026-08-14T01:36:29Z",
             "owner": "kotest",
@@ -870,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47071082,
             "language": "Kotlin",
             "last_commit": "2026-08-14T01:36:29Z",
             "owner": "kotest",
@@ -884,11 +946,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62446262,
             "language": "Kotlin",
             "last_commit": "2026-08-18T12:38:37Z",
             "owner": "streetcomplete",
             "repo": "StreetComplete",
-            "stars": 4758
+            "stars": 4761
           }
         },
         {
@@ -898,11 +961,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105722352,
             "language": "Kotlin",
             "last_commit": "2026-06-01T06:23:18Z",
             "owner": "izhangzhihao",
             "repo": "intellij-rainbow-brackets",
-            "stars": 4663
+            "stars": 4662
           }
         },
         {
@@ -912,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36847034,
             "language": "Kotlin",
             "last_commit": "2026-08-03T09:16:12Z",
             "owner": "kittinunf",
@@ -926,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36847034,
             "language": "Kotlin",
             "last_commit": "2026-08-03T09:16:12Z",
             "owner": "kittinunf",
@@ -940,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31138452,
             "language": "Kotlin",
             "last_commit": "2023-06-02T16:19:16Z",
             "owner": "moezbhatti",
@@ -954,11 +1021,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156025139,
             "language": "Kotlin",
             "last_commit": "2026-08-19T00:55:13Z",
             "owner": "ChuckerTeam",
             "repo": "chucker",
-            "stars": 4553
+            "stars": 4554
           }
         },
         {
@@ -968,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42619487,
             "language": "Kotlin",
             "last_commit": "2024-03-13T19:30:40Z",
             "owner": "intellij-rust",
@@ -982,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12274147,
             "language": "Kotlin",
             "last_commit": "2026-08-18T15:42:59Z",
             "owner": "square",
@@ -996,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19025014,
             "language": "Kotlin",
             "last_commit": "2026-08-18T09:39:34Z",
             "owner": "mikepenz",
@@ -1010,11 +1081,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22718907,
             "language": "Kotlin",
             "last_commit": "2026-08-16T19:40:27Z",
             "owner": "Triple-T",
             "repo": "gradle-play-publisher",
-            "stars": 4311
+            "stars": 4312
           }
         },
         {
@@ -1024,11 +1096,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126059712,
             "language": "Kotlin",
             "last_commit": "2026-08-19T00:12:17Z",
             "owner": "CypherpunkArmory",
             "repo": "UserLAnd",
-            "stars": 4259
+            "stars": 4260
           }
         },
         {
@@ -1038,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83513404,
             "language": "Kotlin",
             "last_commit": "2026-08-18T17:42:02Z",
             "owner": "square",
@@ -1052,11 +1126,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72172651,
             "language": "Kotlin",
             "last_commit": "2021-10-28T03:03:13Z",
             "owner": "ssseasonnn",
             "repo": "RxDownload",
-            "stars": 4119
+            "stars": 4118
           }
         },
         {
@@ -1066,11 +1141,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72172651,
             "language": "Kotlin",
             "last_commit": "2021-10-28T03:03:13Z",
             "owner": "ssseasonnn",
             "repo": "RxDownload",
-            "stars": 4119
+            "stars": 4118
           }
         },
         {
@@ -1080,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70137417,
             "language": "Kotlin",
             "last_commit": "2026-08-18T15:58:59Z",
             "owner": "corda",
@@ -1094,11 +1171,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77902132,
             "language": "Kotlin",
             "last_commit": "2023-10-30T20:20:10Z",
             "owner": "sharish",
             "repo": "ShimmerRecyclerView",
-            "stars": 4010
+            "stars": 4009
           }
         },
         {
@@ -1108,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196805860,
             "language": "Kotlin",
             "last_commit": "2026-08-13T10:04:18Z",
             "owner": "skydoves",
@@ -1122,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66190491,
             "language": "Kotlin",
             "last_commit": "2026-05-28T11:22:07Z",
             "owner": "rumboalla",
@@ -1136,6 +1216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48049436,
             "language": "Java",
             "last_commit": "2025-02-16T18:54:23Z",
             "owner": "vipulasri",
@@ -1150,6 +1231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48688603,
             "language": "Kotlin",
             "last_commit": "2026-04-09T12:54:15Z",
             "owner": "mikepenz",
@@ -1164,6 +1246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29186291,
             "language": "Kotlin",
             "last_commit": "2022-09-22T10:30:21Z",
             "owner": "Yalantis",
@@ -1178,8 +1261,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179008173,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T20:43:16Z",
+            "last_commit": "2026-08-19T06:05:53Z",
             "owner": "home-assistant",
             "repo": "android",
             "stars": 3817
@@ -1192,6 +1276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85997051,
             "language": "Kotlin",
             "last_commit": "2023-10-26T03:07:30Z",
             "owner": "RedApparat",
@@ -1206,6 +1291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21763603,
             "language": "Kotlin",
             "last_commit": "2026-08-18T14:39:28Z",
             "owner": "Kotlin",
@@ -1220,6 +1306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235975582,
             "language": "Kotlin",
             "last_commit": "2026-05-04T11:21:38Z",
             "owner": "JetBrains",
@@ -1234,11 +1321,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151282063,
             "language": "Kotlin",
             "last_commit": "2026-08-11T11:31:41Z",
             "owner": "element-hq",
             "repo": "element-android",
-            "stars": 3721
+            "stars": 3720
           }
         },
         {
@@ -1248,6 +1336,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66840148,
             "language": "Kotlin",
             "last_commit": "2026-06-15T06:17:05Z",
             "owner": "PierfrancescoSoffritti",
@@ -1262,6 +1351,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57252451,
             "language": "Kotlin",
             "last_commit": "2025-12-03T09:10:05Z",
             "owner": "gradle",
@@ -1276,6 +1366,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57252451,
             "language": "Kotlin",
             "last_commit": "2025-12-03T09:10:05Z",
             "owner": "gradle",
@@ -1290,6 +1381,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 99832180,
             "language": "Kotlin",
             "last_commit": "2023-05-19T11:43:25Z",
             "owner": "bufferapp",
@@ -1304,6 +1396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96007003,
             "language": "Kotlin",
             "last_commit": "2022-12-03T07:25:18Z",
             "owner": "TakuSemba",
@@ -1318,6 +1411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187719625,
             "language": "Kotlin",
             "last_commit": "2026-03-31T14:29:55Z",
             "owner": "Foso",
@@ -1332,6 +1426,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50459012,
             "language": "Kotlin",
             "last_commit": "2024-06-26T15:37:04Z",
             "owner": "SimpleMobileTools",
@@ -1346,6 +1441,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 49143977,
             "language": "Kotlin",
             "last_commit": "2023-04-13T05:12:47Z",
             "owner": "edvin",
@@ -1360,6 +1456,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 49143977,
             "language": "Kotlin",
             "last_commit": "2023-04-13T05:12:47Z",
             "owner": "edvin",
@@ -1374,6 +1471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96710053,
             "language": "Kotlin",
             "last_commit": "2026-08-10T14:50:51Z",
             "owner": "tommybuonomo",
@@ -1388,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56722299,
             "language": "Kotlin",
             "last_commit": "2026-08-18T19:51:17Z",
             "owner": "mpv-android",
@@ -1402,6 +1501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229625157,
             "language": "Kotlin",
             "last_commit": "2026-08-16T17:27:20Z",
             "owner": "joreilly",
@@ -1416,6 +1516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226169258,
             "language": "Kotlin",
             "last_commit": "2026-08-17T04:57:23Z",
             "owner": "MobileNativeFoundation",
@@ -1430,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86191112,
             "language": "Kotlin",
             "last_commit": "2025-08-21T10:03:22Z",
             "owner": "DanielMartinus",
@@ -1444,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317375887,
             "language": "Kotlin",
             "last_commit": "2026-08-17T03:23:20Z",
             "owner": "Netflix",
@@ -1458,11 +1561,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34046231,
             "language": "Kotlin",
             "last_commit": "2026-07-21T07:40:56Z",
             "owner": "kosi-libs",
             "repo": "Kodein",
-            "stars": 3334
+            "stars": 3333
           }
         },
         {
@@ -1472,6 +1576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135329998,
             "language": "Kotlin",
             "last_commit": "2025-11-21T18:58:33Z",
             "owner": "Tinder",
@@ -1486,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101714863,
             "language": "Kotlin",
             "last_commit": "2025-06-03T19:19:07Z",
             "owner": "wuseal",
@@ -1500,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49904224,
             "language": "Kotlin",
             "last_commit": "2026-05-27T13:56:21Z",
             "owner": "mockito",
@@ -1514,6 +1621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62350009,
             "language": "Kotlin",
             "last_commit": "2026-05-27T06:26:37Z",
             "owner": "oshai",
@@ -1528,6 +1636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62350009,
             "language": "Kotlin",
             "last_commit": "2026-05-27T06:26:37Z",
             "owner": "oshai",
@@ -1542,11 +1651,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22558387,
             "language": "Kotlin",
             "last_commit": "2026-08-18T05:14:41Z",
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3078
+            "stars": 3079
           }
         },
         {
@@ -1556,11 +1666,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36845923,
             "language": "Java",
             "last_commit": "2025-11-26T23:36:05Z",
             "owner": "KeepSafe",
             "repo": "dexcount-gradle-plugin",
-            "stars": 3071
+            "stars": 3072
           }
         },
         {
@@ -1570,6 +1681,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80095683,
             "language": "Kotlin",
             "last_commit": "2026-08-13T16:26:05Z",
             "owner": "korlibs",
@@ -1584,6 +1696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128975548,
             "language": "Kotlin",
             "last_commit": "2026-01-16T04:47:36Z",
             "owner": "ajalt",
@@ -1598,6 +1711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2788710,
             "language": "Kotlin",
             "last_commit": "2026-08-08T17:31:31Z",
             "owner": "ingokegel",
@@ -1612,6 +1726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13067111,
             "language": "Kotlin",
             "last_commit": "2025-01-18T12:07:46Z",
             "owner": "gotev",
@@ -1626,6 +1741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283549473,
             "language": "Kotlin",
             "last_commit": "2026-08-17T12:18:55Z",
             "owner": "cashapp",
@@ -1640,6 +1756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215849579,
             "language": "Kotlin",
             "last_commit": "2026-08-17T06:40:00Z",
             "owner": "Kotlin",
@@ -1654,8 +1771,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86003479,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T11:37:02Z",
+            "last_commit": "2026-08-19T11:59:11Z",
             "owner": "http4k",
             "repo": "http4k",
             "stars": 2784
@@ -1668,6 +1786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2407497,
             "language": "Kotlin",
             "last_commit": "2026-08-10T04:51:55Z",
             "owner": "MikeOrtiz",
@@ -1682,6 +1801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64612960,
             "language": "Kotlin",
             "last_commit": "2023-08-27T05:36:17Z",
             "owner": "DroidNinja",
@@ -1696,6 +1816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33344739,
             "language": "Kotlin",
             "last_commit": "2022-04-20T08:29:21Z",
             "owner": "worker8",
@@ -1710,6 +1831,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 17946069,
             "language": "Kotlin",
             "last_commit": "2019-07-15T09:15:04Z",
             "owner": "Kotlin",
@@ -1724,6 +1846,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65558914,
             "language": "Kotlin",
             "last_commit": "2024-05-29T22:10:21Z",
             "owner": "LouisCAD",
@@ -1738,6 +1861,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69577014,
             "language": "Kotlin",
             "last_commit": "2023-05-15T11:35:24Z",
             "owner": "terrakok",
@@ -1752,6 +1876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77341954,
             "language": "Kotlin",
             "last_commit": "2026-06-01T22:33:05Z",
             "owner": "ahmedeltaher",
@@ -1766,6 +1891,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77868163,
             "language": "Kotlin",
             "last_commit": "2025-05-23T10:09:37Z",
             "owner": "tuskyapp",
@@ -1780,6 +1906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19723749,
             "language": "Kotlin",
             "last_commit": "2021-02-17T16:58:37Z",
             "owner": "ToxicBakery",
@@ -1794,6 +1921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63582643,
             "language": "Kotlin",
             "last_commit": "2026-08-17T12:26:45Z",
             "owner": "dkrivoruchko",
@@ -1808,6 +1936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99017185,
             "language": "Kotlin",
             "last_commit": "2021-03-19T09:59:42Z",
             "owner": "TakuSemba",
@@ -1822,6 +1951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227681864,
             "language": "Kotlin",
             "last_commit": "2026-08-11T12:55:36Z",
             "owner": "touchlab",
@@ -1836,6 +1966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192786158,
             "language": "Kotlin",
             "last_commit": "2021-08-23T18:06:03Z",
             "owner": "vmadalin",
@@ -1850,8 +1981,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7964711,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T00:13:12Z",
+            "last_commit": "2026-08-19T05:29:17Z",
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
             "stars": 2428
@@ -1864,6 +1996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243753387,
             "language": "Kotlin",
             "last_commit": "2026-01-03T01:52:31Z",
             "owner": "skydoves",
@@ -1878,6 +2011,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259259613,
             "language": "Kotlin",
             "last_commit": "2026-08-10T08:58:41Z",
             "owner": "android",
@@ -1892,6 +2026,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159785192,
             "language": "Kotlin",
             "last_commit": "2026-06-20T15:30:12Z",
             "owner": "kotlin-orm",
@@ -1906,6 +2041,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 96518561,
             "language": "Kotlin",
             "last_commit": "2021-10-08T09:59:51Z",
             "owner": "tarek360",
@@ -1920,6 +2056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 257758318,
             "language": "Kotlin",
             "last_commit": "2026-03-27T19:29:46Z",
             "owner": "airbnb",
@@ -1934,6 +2071,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78366987,
             "language": "Kotlin",
             "last_commit": "2024-04-16T11:55:35Z",
             "owner": "zagum",
@@ -1948,6 +2086,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6551658,
             "language": "Kotlin",
             "last_commit": "2024-05-26T09:35:14Z",
             "owner": "spekframework",
@@ -1962,6 +2101,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 43320624,
             "language": "Kotlin",
             "last_commit": "2022-12-22T23:31:38Z",
             "owner": "lapism",
@@ -1976,6 +2116,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25452970,
             "language": "Kotlin",
             "last_commit": "2019-09-12T16:12:45Z",
             "owner": "JakeWharton",
@@ -1990,6 +2131,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25452970,
             "language": "Kotlin",
             "last_commit": "2019-09-12T16:12:45Z",
             "owner": "JakeWharton",
@@ -2004,6 +2146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16033348,
             "language": "Kotlin",
             "last_commit": "2026-05-11T00:15:18Z",
             "owner": "pbreault",
@@ -2018,6 +2161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53889290,
             "language": "Kotlin",
             "last_commit": "2025-06-24T14:47:11Z",
             "owner": "kscripting",
@@ -2032,6 +2176,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 70015242,
             "language": "Kotlin",
             "last_commit": "2023-10-10T15:44:56Z",
             "owner": "garretyoder",
@@ -2046,6 +2191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302216494,
             "language": "Kotlin",
             "last_commit": "2024-06-15T15:29:11Z",
             "owner": "saket",
@@ -2060,6 +2206,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28197707,
             "language": "Kotlin",
             "last_commit": "2017-07-11T09:57:52Z",
             "owner": "TonicArtos",
@@ -2074,6 +2221,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28197707,
             "language": "Kotlin",
             "last_commit": "2017-07-11T09:57:52Z",
             "owner": "TonicArtos",
@@ -2088,6 +2236,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135768962,
             "language": "Swift",
             "last_commit": "2024-07-22T04:05:41Z",
             "owner": "Tinder",
@@ -2102,6 +2251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217545172,
             "language": "Kotlin",
             "last_commit": "2026-08-16T10:11:47Z",
             "owner": "ibrahimsn98",
@@ -2116,6 +2266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113546314,
             "language": "Kotlin",
             "last_commit": "2020-04-24T14:12:27Z",
             "owner": "dev-labs-bg",
@@ -2130,6 +2281,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135159301,
             "language": "Kotlin",
             "last_commit": "2025-06-02T12:44:02Z",
             "owner": "fwcd",
@@ -2144,6 +2296,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160797577,
             "language": "Kotlin",
             "last_commit": "2024-05-03T16:49:28Z",
             "owner": "stfalcon-studio",
@@ -2158,6 +2311,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91829561,
             "language": "Kotlin",
             "last_commit": "2021-03-15T19:58:10Z",
             "owner": "hussien89aa",
@@ -2172,8 +2326,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25976799,
             "language": "Dart",
-            "last_commit": "2026-08-18T22:30:42Z",
+            "last_commit": "2026-08-19T06:37:58Z",
             "owner": "fossasia",
             "repo": "badgemagic-app",
             "stars": 2000
@@ -2186,6 +2341,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84318601,
             "language": "Kotlin",
             "last_commit": "2025-11-15T05:10:13Z",
             "owner": "faruktoptas",
@@ -2200,6 +2356,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 126199585,
             "language": "Kotlin",
             "last_commit": "2022-10-31T22:11:33Z",
             "owner": "mozilla-mobile",
@@ -2214,6 +2371,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 44851946,
             "language": "Kotlin",
             "last_commit": "2022-04-13T08:49:33Z",
             "owner": "afollestad",
@@ -2228,6 +2386,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 115532492,
             "language": "Kotlin",
             "last_commit": "2019-06-05T18:32:47Z",
             "owner": "JakeWharton",
@@ -2242,6 +2401,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145278249,
             "language": "Kotlin",
             "last_commit": "2021-08-26T19:07:54Z",
             "owner": "saket",
@@ -2256,6 +2416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11444556,
             "language": "Kotlin",
             "last_commit": "2022-10-11T08:46:25Z",
             "owner": "lopspower",
@@ -2270,6 +2431,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34847604,
             "language": "Kotlin",
             "last_commit": "2023-07-24T22:01:02Z",
             "owner": "fossasia",
@@ -2284,6 +2446,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65466368,
             "language": "Kotlin",
             "last_commit": "2025-02-13T18:53:08Z",
             "owner": "leandroBorgesFerreira",
@@ -2298,11 +2461,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276953420,
             "language": "Kotlin",
             "last_commit": "2024-05-11T17:14:49Z",
             "owner": "androiddevnotes",
             "repo": "awesome-android-learning-resources",
-            "stars": 1937
+            "stars": 1938
           }
         },
         {
@@ -2312,6 +2476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208070025,
             "language": "Kotlin",
             "last_commit": "2026-07-16T13:58:40Z",
             "owner": "KasperskyLab",
@@ -2326,6 +2491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89555035,
             "language": "Kotlin",
             "last_commit": "2023-12-02T14:39:24Z",
             "owner": "sumimakito",
@@ -2340,6 +2506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114683464,
             "language": "Kotlin",
             "last_commit": "2025-11-03T21:19:37Z",
             "owner": "airbnb",
@@ -2349,29 +2516,31 @@
         },
         {
           "node_type": "item",
-          "title": "VDM",
-          "description": "GUI for command-line video downloader (youtube-dl annie)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2021-11-24T05:44:36Z",
-            "owner": "ingbyr",
-            "repo": "vdm",
-            "stars": 1902
-          }
-        },
-        {
-          "node_type": "item",
           "title": "kotlin-android-template",
           "description": "Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250921807,
             "language": "Kotlin",
             "last_commit": "2026-08-14T20:04:57Z",
             "owner": "cortinico",
             "repo": "kotlin-android-template",
+            "stars": 1903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VDM",
+          "description": "GUI for command-line video downloader (youtube-dl annie)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 58524927,
+            "language": "Kotlin",
+            "last_commit": "2021-11-24T05:44:36Z",
+            "owner": "ingbyr",
+            "repo": "vdm",
             "stars": 1902
           }
         },
@@ -2382,6 +2551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103491947,
             "language": "Kotlin",
             "last_commit": "2018-05-23T20:50:20Z",
             "owner": "Gh0u1L5",
@@ -2396,6 +2566,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 119420975,
             "language": "Kotlin",
             "last_commit": "2025-01-04T20:51:30Z",
             "owner": "enricocid",
@@ -2410,11 +2581,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106916945,
             "language": "Kotlin",
             "last_commit": "2022-04-07T01:51:37Z",
             "owner": "qingmei2",
             "repo": "MVVM-Architecture",
-            "stars": 1869
+            "stars": 1868
           }
         },
         {
@@ -2424,6 +2596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9588335,
             "language": "Kotlin",
             "last_commit": "2026-02-04T19:41:32Z",
             "owner": "cbeust",
@@ -2438,6 +2611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9588335,
             "language": "Kotlin",
             "last_commit": "2026-02-04T19:41:32Z",
             "owner": "cbeust",
@@ -2452,6 +2626,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 201701386,
             "language": "Kotlin",
             "last_commit": "2022-10-19T19:28:29Z",
             "owner": "saket",
@@ -2466,6 +2641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79353335,
             "language": "Kotlin",
             "last_commit": "2026-08-17T10:16:44Z",
             "owner": "EmmyLua",
@@ -2480,11 +2656,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44628138,
             "language": "Kotlin",
             "last_commit": "2023-04-17T14:21:49Z",
             "owner": "lopspower",
             "repo": "CircularProgressBar",
-            "stars": 1803
+            "stars": 1804
           }
         },
         {
@@ -2494,6 +2671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148706161,
             "language": "Kotlin",
             "last_commit": "2026-08-10T18:01:03Z",
             "owner": "ExpediaGroup",
@@ -2508,6 +2686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166008413,
             "language": "Kotlin",
             "last_commit": "2026-08-13T10:44:48Z",
             "owner": "PortSwigger",
@@ -2522,6 +2701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45473310,
             "language": "Kotlin",
             "last_commit": "2023-03-29T12:00:26Z",
             "owner": "jkwiecien",
@@ -2536,6 +2716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42327118,
             "language": "Kotlin",
             "last_commit": "2026-08-09T21:33:08Z",
             "owner": "minecraft-dev",
@@ -2550,6 +2731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33301379,
             "language": "Kotlin",
             "last_commit": "2026-08-11T16:16:17Z",
             "owner": "Kotlin",
@@ -2564,11 +2746,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32370961,
             "language": "Kotlin",
             "last_commit": "2021-09-29T09:59:20Z",
             "owner": "yshrsmz",
             "repo": "KeyboardVisibilityEvent",
-            "stars": 1741
+            "stars": 1740
           }
         },
         {
@@ -2578,6 +2761,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115028329,
             "language": "Kotlin",
             "last_commit": "2021-11-10T07:13:49Z",
             "owner": "aritraroy",
@@ -2592,6 +2776,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32951609,
             "language": "Kotlin",
             "last_commit": "2021-06-15T14:48:30Z",
             "owner": "orbit",
@@ -2606,6 +2791,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213915094,
             "language": "Kotlin",
             "last_commit": "2026-08-17T21:05:55Z",
             "owner": "GitLiveApp",
@@ -2620,6 +2806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84131083,
             "language": "Kotlin",
             "last_commit": "2026-08-09T06:43:59Z",
             "owner": "JLLeitschuh",
@@ -2634,6 +2821,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150827271,
             "language": "Kotlin",
             "last_commit": "2025-08-16T13:51:35Z",
             "owner": "Splitties",
@@ -2648,6 +2836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79541183,
             "language": "Kotlin",
             "last_commit": "2024-07-03T11:45:35Z",
             "owner": "AdevintaSpain",
@@ -2662,6 +2851,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145898133,
             "language": "Kotlin",
             "last_commit": "2026-01-15T22:52:28Z",
             "owner": "jasync-sql",
@@ -2676,6 +2866,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224247781,
             "language": "Kotlin",
             "last_commit": "2022-03-01T05:59:01Z",
             "owner": "nikhilpanju",
@@ -2690,6 +2881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281804607,
             "language": "Kotlin",
             "last_commit": "2022-02-09T01:39:53Z",
             "owner": "idisfkj",
@@ -2704,6 +2896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72092790,
             "language": "Kotlin",
             "last_commit": "2022-09-22T09:33:04Z",
             "owner": "Yalantis",
@@ -2718,6 +2911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123641451,
             "language": "Kotlin",
             "last_commit": "2026-08-12T00:34:11Z",
             "owner": "vanniktech",
@@ -2732,6 +2926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118613634,
             "language": "Kotlin",
             "last_commit": "2026-08-16T00:02:23Z",
             "owner": "ktorio",
@@ -2746,11 +2941,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93250841,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T01:09:56Z",
+            "last_commit": "2026-08-19T02:04:34Z",
             "owner": "JetBrains",
             "repo": "kotlin-wrappers",
-            "stars": 1591
+            "stars": 1592
           }
         },
         {
@@ -2760,6 +2956,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41577702,
             "language": "Kotlin",
             "last_commit": "2021-02-05T14:00:56Z",
             "owner": "nekocode",
@@ -2774,6 +2971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41577702,
             "language": "Kotlin",
             "last_commit": "2021-02-05T14:00:56Z",
             "owner": "nekocode",
@@ -2788,6 +2986,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109437424,
             "language": "Kotlin",
             "last_commit": "2023-05-23T19:10:42Z",
             "owner": "wching",
@@ -2802,6 +3001,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160280224,
             "language": "Kotlin",
             "last_commit": "2023-10-22T09:30:15Z",
             "owner": "Dhaval2404",
@@ -2816,6 +3016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37991744,
             "language": "Kotlin",
             "last_commit": "2020-01-20T00:09:39Z",
             "owner": "klinker24",
@@ -2830,6 +3031,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63188974,
             "language": "Kotlin",
             "last_commit": "2024-06-11T09:59:37Z",
             "owner": "SimpleMobileTools",
@@ -2844,6 +3046,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276911088,
             "language": "Kotlin",
             "last_commit": "2021-11-17T05:13:41Z",
             "owner": "Zackratos",
@@ -2858,6 +3061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 249948572,
             "language": "Kotlin",
             "last_commit": "2024-05-31T08:05:58Z",
             "owner": "Kotlin",
@@ -2872,11 +3076,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155507525,
             "language": "Kotlin",
             "last_commit": "2025-10-15T09:41:28Z",
             "owner": "skydoves",
             "repo": "AndroidVeil",
-            "stars": 1566
+            "stars": 1567
           }
         },
         {
@@ -2886,6 +3091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20304564,
             "language": "Kotlin",
             "last_commit": "2023-10-19T09:12:49Z",
             "owner": "sephiroth74",
@@ -2900,6 +3106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133267421,
             "language": "Kotlin",
             "last_commit": "2022-10-29T13:41:37Z",
             "owner": "naman14",
@@ -2914,6 +3121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247149539,
             "language": "Kotlin",
             "last_commit": "2024-04-29T18:22:23Z",
             "owner": "Spikeysanju",
@@ -2928,6 +3136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6926049,
             "language": "Kotlin",
             "last_commit": "2026-08-18T23:29:06Z",
             "owner": "stripe",
@@ -2942,6 +3151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 180661089,
             "language": "Kotlin",
             "last_commit": "2023-05-22T19:09:49Z",
             "owner": "cashapp",
@@ -2956,6 +3166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54804774,
             "language": "Kotlin",
             "last_commit": "2022-04-05T02:54:09Z",
             "owner": "ncapdevi",
@@ -2970,6 +3181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243871280,
             "language": "Kotlin",
             "last_commit": "2023-02-18T17:36:50Z",
             "owner": "Droppers",
@@ -2984,11 +3196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62418645,
             "language": "Kotlin",
             "last_commit": "2025-06-28T20:52:55Z",
             "owner": "libktx",
             "repo": "ktx",
-            "stars": 1460
+            "stars": 1461
           }
         },
         {
@@ -2998,6 +3211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55439112,
             "language": "Kotlin",
             "last_commit": "2023-07-03T17:57:55Z",
             "owner": "sephiroth74",
@@ -3012,6 +3226,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 117906712,
             "language": "Kotlin",
             "last_commit": "2026-05-09T17:37:52Z",
             "owner": "jaredrummler",
@@ -3026,6 +3241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169960567,
             "language": "Kotlin",
             "last_commit": "2023-10-06T05:46:36Z",
             "owner": "oneHamidreza",
@@ -3040,6 +3256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110672825,
             "language": "Kotlin",
             "last_commit": "2020-07-09T21:18:15Z",
             "owner": "Ramotion",
@@ -3054,6 +3271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271357426,
             "language": "Kotlin",
             "last_commit": "2026-08-18T04:36:34Z",
             "owner": "square",
@@ -3068,6 +3286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 84395488,
             "language": "Kotlin",
             "last_commit": "2021-05-01T00:53:17Z",
             "owner": "igalata",
@@ -3082,6 +3301,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 84395488,
             "language": "Kotlin",
             "last_commit": "2021-05-01T00:53:17Z",
             "owner": "igalata",
@@ -3096,6 +3316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49365652,
             "language": "Kotlin",
             "last_commit": "2024-06-11T10:00:51Z",
             "owner": "SimpleMobileTools",
@@ -3110,6 +3331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71238015,
             "language": "Kotlin",
             "last_commit": "2022-09-22T08:54:44Z",
             "owner": "Yalantis",
@@ -3124,6 +3346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15937775,
             "language": "Kotlin",
             "last_commit": "2026-08-09T10:52:18Z",
             "owner": "magnusja",
@@ -3138,6 +3361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103920670,
             "language": "Kotlin",
             "last_commit": "2022-07-29T06:12:25Z",
             "owner": "loopeer",
@@ -3152,6 +3376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103920670,
             "language": "Kotlin",
             "last_commit": "2022-07-29T06:12:25Z",
             "owner": "loopeer",
@@ -3166,6 +3391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82835649,
             "language": "Kotlin",
             "last_commit": "2026-02-19T03:07:17Z",
             "owner": "ihsanbal",
@@ -3180,6 +3406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65904836,
             "language": "Kotlin",
             "last_commit": "2024-01-07T15:33:46Z",
             "owner": "anastr",
@@ -3194,6 +3421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120835750,
             "language": "Kotlin",
             "last_commit": "2026-08-17T12:40:16Z",
             "owner": "rjaros",
@@ -3208,6 +3436,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83577166,
             "language": "Kotlin",
             "last_commit": "2026-05-06T08:28:19Z",
             "owner": "robertlevonyan",
@@ -3222,6 +3451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157774533,
             "language": "Kotlin",
             "last_commit": "2022-01-03T17:24:10Z",
             "owner": "bitvale",
@@ -3236,6 +3466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5324790,
             "language": "Kotlin",
             "last_commit": "2025-06-27T14:39:28Z",
             "owner": "acejump",
@@ -3250,6 +3481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20956093,
             "language": "Kotlin",
             "last_commit": "2026-03-26T16:52:26Z",
             "owner": "JetBrains",
@@ -3264,8 +3496,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124955999,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T06:30:55Z",
+            "last_commit": "2026-08-19T06:17:13Z",
             "owner": "badoo",
             "repo": "MVICore",
             "stars": 1303
@@ -3278,6 +3511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243832745,
             "language": "Kotlin",
             "last_commit": "2025-12-19T18:33:09Z",
             "owner": "grpc",
@@ -3292,6 +3526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68406345,
             "language": "Kotlin",
             "last_commit": "2025-09-03T20:07:58Z",
             "owner": "ligi",
@@ -3306,6 +3541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104483242,
             "language": "Kotlin",
             "last_commit": "2020-06-22T16:08:30Z",
             "owner": "bufferapp",
@@ -3320,6 +3556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174749849,
             "language": "Kotlin",
             "last_commit": "2021-11-09T08:44:52Z",
             "owner": "iammert",
@@ -3334,6 +3571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107745806,
             "language": "Kotlin",
             "last_commit": "2026-07-04T03:27:54Z",
             "owner": "michaelbull",
@@ -3348,8 +3586,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2406783,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T13:58:50Z",
+            "last_commit": "2026-08-19T12:27:11Z",
             "owner": "bugsnag",
             "repo": "bugsnag-android",
             "stars": 1241
@@ -3362,6 +3601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58338361,
             "language": "Kotlin",
             "last_commit": "2026-08-12T23:47:01Z",
             "owner": "cortinico",
@@ -3376,6 +3616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179816888,
             "language": "Kotlin",
             "last_commit": "2021-05-15T08:03:02Z",
             "owner": "iammert",
@@ -3390,6 +3631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71991744,
             "language": "Kotlin",
             "last_commit": "2023-12-02T13:00:42Z",
             "owner": "RedMadRobot",
@@ -3404,11 +3646,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34355111,
             "language": "Kotlin",
             "last_commit": "2021-02-13T14:21:40Z",
             "owner": "Kennyc1012",
             "repo": "MultiStateView",
-            "stars": 1217
+            "stars": 1216
           }
         },
         {
@@ -3418,8 +3661,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174194386,
             "language": "Kotlin",
-            "last_commit": "2026-08-05T06:58:57Z",
+            "last_commit": "2026-08-19T06:24:41Z",
             "owner": "badoo",
             "repo": "Reaktive",
             "stars": 1214
@@ -3432,6 +3676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86749644,
             "language": "Kotlin",
             "last_commit": "2026-08-02T00:42:18Z",
             "owner": "guardian",
@@ -3446,6 +3691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792741661,
             "language": "Kotlin",
             "last_commit": "2026-07-26T09:17:38Z",
             "owner": "composablehorizons",
@@ -3460,6 +3706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91067584,
             "language": "Kotlin",
             "last_commit": "2026-01-16T10:46:26Z",
             "owner": "pedrovgs",
@@ -3474,6 +3721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86909593,
             "language": "Kotlin",
             "last_commit": "2021-08-31T02:55:55Z",
             "owner": "owenlongbo",
@@ -3488,6 +3736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83147262,
             "language": "Kotlin",
             "last_commit": "2024-06-14T10:23:44Z",
             "owner": "ImangazalievM",
@@ -3502,6 +3751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23404083,
             "language": "Kotlin",
             "last_commit": "2026-08-16T17:41:09Z",
             "owner": "FasterXML",
@@ -3516,6 +3766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23404083,
             "language": "Kotlin",
             "last_commit": "2026-08-16T17:41:09Z",
             "owner": "FasterXML",
@@ -3530,6 +3781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12641222,
             "language": "Kotlin",
             "last_commit": "2026-05-28T21:13:14Z",
             "owner": "grote",
@@ -3544,6 +3796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77173879,
             "language": "Kotlin",
             "last_commit": "2021-06-28T12:24:09Z",
             "owner": "JetradarMobile",
@@ -3558,6 +3811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192359205,
             "language": "Kotlin",
             "last_commit": "2024-02-01T10:43:00Z",
             "owner": "JetBrains",
@@ -3572,6 +3826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51272475,
             "language": "Kotlin",
             "last_commit": "2020-09-02T19:15:01Z",
             "owner": "javiersantos",
@@ -3586,6 +3841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143123260,
             "language": "Kotlin",
             "last_commit": "2020-05-20T10:55:31Z",
             "owner": "duanhong169",
@@ -3600,6 +3856,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 160725573,
             "language": "Kotlin",
             "last_commit": "2023-11-30T08:53:25Z",
             "owner": "google-developer-training",
@@ -3614,6 +3871,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 214312472,
             "language": "Kotlin",
             "last_commit": "2024-09-30T15:54:27Z",
             "owner": "chrisbanes",
@@ -3628,6 +3886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105020875,
             "language": "Kotlin",
             "last_commit": "2023-01-30T11:04:20Z",
             "owner": "natario1",
@@ -3642,6 +3901,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 104835572,
             "language": "Kotlin",
             "last_commit": "2021-05-26T07:38:45Z",
             "owner": "agoda-com",
@@ -3656,6 +3916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82682728,
             "language": "Kotlin",
             "last_commit": "2026-02-14T01:18:11Z",
             "owner": "intellij-solidity",
@@ -3670,6 +3931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55218329,
             "language": "Kotlin",
             "last_commit": "2021-03-08T08:25:07Z",
             "owner": "Rogero0o",
@@ -3684,6 +3946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210506798,
             "language": "Kotlin",
             "last_commit": "2023-07-10T09:09:15Z",
             "owner": "SusionSuc",
@@ -3698,6 +3961,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 119093169,
             "language": "Kotlin",
             "last_commit": "2020-12-23T12:26:04Z",
             "owner": "alexjlockwood",
@@ -3712,6 +3976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56640363,
             "language": "Kotlin",
             "last_commit": "2023-02-14T22:54:45Z",
             "owner": "Mauker1",
@@ -3726,6 +3991,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 116631619,
             "language": "Kotlin",
             "last_commit": "2024-03-19T11:35:01Z",
             "owner": "JakeWharton",
@@ -3740,6 +4006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10883743,
             "language": "Kotlin",
             "last_commit": "2021-06-15T07:31:43Z",
             "owner": "vektah",
@@ -3754,6 +4021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187727131,
             "language": "Kotlin",
             "last_commit": "2026-07-27T04:34:58Z",
             "owner": "sksamuel",
@@ -3768,6 +4036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122357207,
             "language": "Kotlin",
             "last_commit": "2021-04-10T12:34:56Z",
             "owner": "oss-bandb",
@@ -3782,6 +4051,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 44410556,
             "language": "Kotlin",
             "last_commit": "2024-12-11T16:41:33Z",
             "owner": "google-developer-training",
@@ -3796,6 +4066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 257329243,
             "language": null,
             "last_commit": "2022-11-17T11:08:48Z",
             "owner": "amitshekhariitbhu",
@@ -3810,6 +4081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136849936,
             "language": "Kotlin",
             "last_commit": "2021-02-20T09:59:36Z",
             "owner": "tommybuonomo",
@@ -3824,6 +4096,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 44452945,
             "language": "Kotlin",
             "last_commit": "2020-02-24T19:49:56Z",
             "owner": "afollestad",
@@ -3838,6 +4111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92400879,
             "language": "Kotlin",
             "last_commit": "2024-04-04T11:13:14Z",
             "owner": "Applandeo",
@@ -3852,6 +4126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92502948,
             "language": "Kotlin",
             "last_commit": "2024-06-21T00:47:56Z",
             "owner": "Hamadakram",
@@ -3866,6 +4141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108419228,
             "language": "Kotlin",
             "last_commit": "2022-06-16T04:59:16Z",
             "owner": "kizitonwose",
@@ -3880,6 +4156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92269915,
             "language": "Kotlin",
             "last_commit": "2020-03-14T17:07:14Z",
             "owner": "perwendel",
@@ -3894,6 +4171,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 39480138,
             "language": "Kotlin",
             "last_commit": "2022-06-21T21:04:23Z",
             "owner": "akexorcist",
@@ -3908,6 +4186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220592381,
             "language": "Kotlin",
             "last_commit": "2026-08-17T12:18:02Z",
             "owner": "JakeWharton",
@@ -3922,6 +4201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114655619,
             "language": "Kotlin",
             "last_commit": "2020-07-20T00:58:18Z",
             "owner": "bufferapp",
@@ -3936,6 +4216,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35056138,
             "language": "Kotlin",
             "last_commit": "2021-02-21T05:11:57Z",
             "owner": "afollestad",
@@ -3950,6 +4231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287743559,
             "language": "Kotlin",
             "last_commit": "2022-10-05T08:44:22Z",
             "owner": "guolindev",
@@ -3964,6 +4246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265163836,
             "language": "Kotlin",
             "last_commit": "2021-04-08T05:27:36Z",
             "owner": "hitherejoe",
@@ -3978,6 +4261,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78316423,
             "language": "Kotlin",
             "last_commit": "2024-08-03T14:55:08Z",
             "owner": "kwebio",
@@ -3992,6 +4276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136323126,
             "language": "Kotlin",
             "last_commit": "2026-02-05T14:16:47Z",
             "owner": "rock3r",
@@ -4006,6 +4291,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9619510,
             "language": "Kotlin",
             "last_commit": "2021-02-21T23:07:47Z",
             "owner": "FredJul",
@@ -4020,6 +4306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17116181,
             "language": "Kotlin",
             "last_commit": "2026-08-15T03:18:42Z",
             "owner": "infinum",
@@ -4034,6 +4321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164134392,
             "language": "TypeScript",
             "last_commit": "2026-08-05T23:15:37Z",
             "owner": "bernaferrari",
@@ -4048,11 +4336,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477143989,
             "language": "Kotlin",
             "last_commit": "2026-05-31T14:47:34Z",
             "owner": "respawn-llc",
             "repo": "FlowMVI",
-            "stars": 941
+            "stars": 942
           }
         },
         {
@@ -4062,6 +4351,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64836918,
             "language": "Kotlin",
             "last_commit": "2017-09-22T06:58:12Z",
             "owner": "loopeer",
@@ -4076,6 +4366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45111154,
             "language": "Kotlin",
             "last_commit": "2026-02-09T17:47:24Z",
             "owner": "kittinunf",
@@ -4090,6 +4381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45111154,
             "language": "Kotlin",
             "last_commit": "2026-02-09T17:47:24Z",
             "owner": "kittinunf",
@@ -4104,6 +4396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41123962,
             "language": "Kotlin",
             "last_commit": "2021-12-04T16:34:26Z",
             "owner": "mwolfson",
@@ -4118,6 +4411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83349679,
             "language": "Kotlin",
             "last_commit": "2023-05-14T21:17:51Z",
             "owner": "bmaslakov",
@@ -4132,6 +4426,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69637233,
             "language": "Kotlin",
             "last_commit": "2026-06-19T00:29:39Z",
             "owner": "mannodermaus",
@@ -4146,6 +4441,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153307512,
             "language": "Kotlin",
             "last_commit": "2020-06-27T10:15:01Z",
             "owner": "faob-dev",
@@ -4160,6 +4456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9098277,
             "language": "Kotlin",
             "last_commit": "2019-12-19T10:53:13Z",
             "owner": "MarioAriasC",
@@ -4174,6 +4471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9098277,
             "language": "Kotlin",
             "last_commit": "2019-12-19T10:53:13Z",
             "owner": "MarioAriasC",
@@ -4188,6 +4486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78296126,
             "language": "Kotlin",
             "last_commit": "2023-07-27T18:33:03Z",
             "owner": "InflationX",
@@ -4202,6 +4501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20579595,
             "language": "Kotlin",
             "last_commit": "2026-02-19T01:54:01Z",
             "owner": "AndroidDeveloperLB",
@@ -4216,6 +4516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100109717,
             "language": "Kotlin",
             "last_commit": "2025-12-02T08:11:43Z",
             "owner": "Aditya94A",
@@ -4230,6 +4531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201777295,
             "language": "Kotlin",
             "last_commit": "2023-03-09T04:02:19Z",
             "owner": "ReactiveCircus",
@@ -4244,6 +4546,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94126430,
             "language": "Kotlin",
             "last_commit": "2023-10-17T18:28:37Z",
             "owner": "cashapp",
@@ -4258,6 +4561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32946447,
             "language": "Kotlin",
             "last_commit": "2024-08-02T11:56:11Z",
             "owner": "pawegio",
@@ -4272,6 +4576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115212016,
             "language": "Kotlin",
             "last_commit": "2026-03-19T22:48:02Z",
             "owner": "romainguy",
@@ -4286,6 +4591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32946447,
             "language": "Kotlin",
             "last_commit": "2024-08-02T11:56:11Z",
             "owner": "pawegio",
@@ -4300,6 +4606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278755524,
             "language": "Kotlin",
             "last_commit": "2022-04-06T00:05:47Z",
             "owner": "JakeWharton",
@@ -4314,6 +4621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66310925,
             "language": "Kotlin",
             "last_commit": "2022-01-16T06:29:12Z",
             "owner": "kbiakov",
@@ -4328,6 +4636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40453307,
             "language": "Kotlin",
             "last_commit": "2024-06-16T12:22:56Z",
             "owner": "Kennyc1012",
@@ -4342,6 +4651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145462355,
             "language": "Kotlin",
             "last_commit": "2025-11-02T10:41:16Z",
             "owner": "arunkumar9t2",
@@ -4356,6 +4666,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23015644,
             "language": "Kotlin",
             "last_commit": "2016-09-11T08:13:07Z",
             "owner": "PaperAirplane-Dev-Team",
@@ -4370,6 +4681,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 48179404,
             "language": "Kotlin",
             "last_commit": "2020-05-04T14:02:30Z",
             "owner": "RocketChat",
@@ -4384,6 +4696,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51317191,
             "language": "Kotlin",
             "last_commit": "2023-04-29T13:58:51Z",
             "owner": "markusamshove",
@@ -4398,6 +4711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98714221,
             "language": "Kotlin",
             "last_commit": "2017-11-14T07:16:13Z",
             "owner": "armcha",
@@ -4412,6 +4726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182247983,
             "language": "Kotlin",
             "last_commit": "2021-03-16T19:57:51Z",
             "owner": "razir",
@@ -4426,6 +4741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222264519,
             "language": "Kotlin",
             "last_commit": "2022-07-19T07:39:31Z",
             "owner": "Chrisvin",
@@ -4440,6 +4756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66073375,
             "language": "Kotlin",
             "last_commit": "2018-03-15T08:14:51Z",
             "owner": "kiruto",
@@ -4454,6 +4771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82451417,
             "language": "Kotlin",
             "last_commit": "2019-12-13T06:52:15Z",
             "owner": "gildor",
@@ -4468,6 +4786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66073375,
             "language": "Kotlin",
             "last_commit": "2018-03-15T08:14:51Z",
             "owner": "kiruto",
@@ -4482,6 +4801,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47073417,
             "language": "Kotlin",
             "last_commit": "2022-12-31T02:47:21Z",
             "owner": "afollestad",
@@ -4496,6 +4816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289296848,
             "language": "Kotlin",
             "last_commit": "2026-08-14T19:20:35Z",
             "owner": "JakeWharton",
@@ -4510,6 +4831,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 138897865,
             "language": "Kotlin",
             "last_commit": "2022-05-18T08:07:52Z",
             "owner": "quiph",
@@ -4524,6 +4846,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98249217,
             "language": "Kotlin",
             "last_commit": "2022-03-30T20:42:56Z",
             "owner": "TradeMe",
@@ -4538,6 +4861,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81460205,
             "language": "Kotlin",
             "last_commit": "2026-08-16T20:33:44Z",
             "owner": "graphql-java-kickstart",
@@ -4552,6 +4876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115700894,
             "language": "Kotlin",
             "last_commit": "2022-07-09T14:41:46Z",
             "owner": "Ramotion",
@@ -4566,6 +4891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124291072,
             "language": "Kotlin",
             "last_commit": "2026-08-11T22:56:28Z",
             "owner": "konform-kt",
@@ -4580,6 +4906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50615971,
             "language": "Kotlin",
             "last_commit": "2019-12-02T21:01:09Z",
             "owner": "juanchosaravia",
@@ -4594,6 +4921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79647613,
             "language": "Kotlin",
             "last_commit": "2024-04-04T01:49:30Z",
             "owner": "skydoves",
@@ -4608,6 +4936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130370461,
             "language": "Kotlin",
             "last_commit": "2022-12-23T16:41:24Z",
             "owner": "Karn",
@@ -4622,6 +4951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32095357,
             "language": "Kotlin",
             "last_commit": "2023-05-10T21:26:01Z",
             "owner": "vsch",
@@ -4636,6 +4966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231736297,
             "language": "Kotlin",
             "last_commit": "2020-07-22T03:32:34Z",
             "owner": "Spikeysanju",
@@ -4650,6 +4981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300665313,
             "language": "Kotlin",
             "last_commit": "2020-11-15T14:02:59Z",
             "owner": "SmartToolFactory",
@@ -4664,6 +4996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35174991,
             "language": "Kotlin",
             "last_commit": "2026-08-17T09:36:03Z",
             "owner": "openfoodfacts",
@@ -4678,6 +5011,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94116947,
             "language": "Kotlin",
             "last_commit": "2026-06-24T17:46:18Z",
             "owner": "Hexworks",
@@ -4692,6 +5026,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131515836,
             "language": "Kotlin",
             "last_commit": "2022-08-04T09:31:29Z",
             "owner": "iammert",
@@ -4706,6 +5041,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33710270,
             "language": "Kotlin",
             "last_commit": "2026-04-01T04:36:40Z",
             "owner": "Jawnnypoo",
@@ -4720,6 +5056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33025293,
             "language": "Kotlin",
             "last_commit": "2023-01-04T23:00:10Z",
             "owner": "niranjan94",
@@ -4734,11 +5071,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71367962,
             "language": "Kotlin",
             "last_commit": "2023-10-18T09:49:01Z",
             "owner": "aykuttasil",
             "repo": "CallRecorder",
-            "stars": 787
+            "stars": 788
           }
         },
         {
@@ -4748,6 +5086,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232632652,
             "language": "Kotlin",
             "last_commit": "2023-03-18T21:56:03Z",
             "owner": "square",
@@ -4762,6 +5101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64314720,
             "language": "Kotlin",
             "last_commit": "2026-01-13T11:03:38Z",
             "owner": "AdevintaSpain",
@@ -4776,6 +5116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168386789,
             "language": "Kotlin",
             "last_commit": "2025-07-06T20:29:42Z",
             "owner": "MoyuruAizawa",
@@ -4790,6 +5131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61912405,
             "language": "Kotlin",
             "last_commit": "2018-08-16T12:17:19Z",
             "owner": "nitrico",
@@ -4804,6 +5146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84812790,
             "language": "Kotlin",
             "last_commit": "2023-01-18T10:33:10Z",
             "owner": "GwonHyeok",
@@ -4818,6 +5161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61912405,
             "language": "Kotlin",
             "last_commit": "2018-08-16T12:17:19Z",
             "owner": "nitrico",
@@ -4832,6 +5176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95685398,
             "language": "Kotlin",
             "last_commit": "2026-08-10T13:04:15Z",
             "owner": "ansman",
@@ -4846,6 +5191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185386010,
             "language": "Kotlin",
             "last_commit": "2020-04-20T08:50:55Z",
             "owner": "jarroyoesp",
@@ -4860,6 +5206,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144460646,
             "language": "Kotlin",
             "last_commit": "2022-07-20T18:28:16Z",
             "owner": "nirukk52",
@@ -4874,6 +5221,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216523700,
             "language": "Kotlin",
             "last_commit": "2021-09-15T04:59:40Z",
             "owner": "ZieIony",
@@ -4888,6 +5236,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200859123,
             "language": "Kotlin",
             "last_commit": "2026-06-12T00:24:26Z",
             "owner": "jsoizo",
@@ -4902,6 +5251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135081469,
             "language": "Kotlin",
             "last_commit": "2024-04-27T14:59:10Z",
             "owner": "bernaferrari",
@@ -4916,6 +5266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132056317,
             "language": "Kotlin",
             "last_commit": "2018-06-20T20:20:43Z",
             "owner": "tommybuonomo",
@@ -4930,6 +5281,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32863999,
             "language": "Kotlin",
             "last_commit": "2019-06-08T15:35:04Z",
             "owner": "tajchert",
@@ -4944,6 +5296,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265785552,
             "language": "Kotlin",
             "last_commit": "2026-08-10T14:24:04Z",
             "owner": "Kotlin",
@@ -4958,6 +5311,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175080797,
             "language": "Kotlin",
             "last_commit": "2019-10-10T08:20:20Z",
             "owner": "JeroenMols",
@@ -4972,6 +5326,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78136976,
             "language": "Kotlin",
             "last_commit": "2021-04-27T09:40:31Z",
             "owner": "andremion",
@@ -4986,6 +5341,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69096198,
             "language": "Kotlin",
             "last_commit": "2026-07-12T17:06:13Z",
             "owner": "robohorse",
@@ -5000,6 +5356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126122235,
             "language": "Kotlin",
             "last_commit": "2023-11-09T20:30:22Z",
             "owner": "reddit",
@@ -5014,6 +5371,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 174766902,
             "language": "Kotlin",
             "last_commit": "2022-12-24T21:51:22Z",
             "owner": "afollestad",
@@ -5028,6 +5386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162429842,
             "language": "Kotlin",
             "last_commit": "2024-07-15T10:22:01Z",
             "owner": "tschuchortdev",
@@ -5042,6 +5401,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30827592,
             "language": "Kotlin",
             "last_commit": "2020-12-03T12:20:29Z",
             "owner": "SalomonBrys",
@@ -5056,6 +5416,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30827592,
             "language": "Kotlin",
             "last_commit": "2020-12-03T12:20:29Z",
             "owner": "SalomonBrys",
@@ -5070,6 +5431,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36837477,
             "language": "Kotlin",
             "last_commit": "2026-07-07T20:00:01Z",
             "owner": "tajchert",
@@ -5084,6 +5446,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57020779,
             "language": "Kotlin",
             "last_commit": "2018-07-16T01:57:06Z",
             "owner": "permissions-dispatcher",
@@ -5098,6 +5461,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 40081857,
             "language": "Kotlin",
             "last_commit": "2026-07-29T06:09:56Z",
             "owner": "chibatching",
@@ -5112,6 +5476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115260052,
             "language": "Kotlin",
             "last_commit": "2024-01-23T15:06:12Z",
             "owner": "janishar",
@@ -5126,6 +5491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85476181,
             "language": "Kotlin",
             "last_commit": "2023-07-31T17:16:15Z",
             "owner": "DanielMartinus",
@@ -5140,6 +5506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283172362,
             "language": "Kotlin",
             "last_commit": "2020-09-02T02:15:49Z",
             "owner": "MlxChange",
@@ -5154,6 +5521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82854849,
             "language": "Kotlin",
             "last_commit": "2026-03-06T21:30:28Z",
             "owner": "wealthfront",
@@ -5168,6 +5536,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 108193127,
             "language": "Kotlin",
             "last_commit": "2022-07-07T23:27:06Z",
             "owner": "soywiz-archive",
@@ -5182,6 +5551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101482393,
             "language": "Kotlin",
             "last_commit": "2019-05-18T16:30:09Z",
             "owner": "TonnyL",
@@ -5196,6 +5566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66237062,
             "language": "Kotlin",
             "last_commit": "2023-02-20T08:03:13Z",
             "owner": "Jire",
@@ -5210,6 +5581,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 243535245,
             "language": "Kotlin",
             "last_commit": "2020-03-05T20:10:44Z",
             "owner": "JakeWharton",
@@ -5224,6 +5596,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 165433713,
             "language": "Kotlin",
             "last_commit": "2021-02-21T05:03:23Z",
             "owner": "afollestad",
@@ -5238,6 +5611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67445237,
             "language": "Kotlin",
             "last_commit": "2025-11-02T12:20:07Z",
             "owner": "dkandalov",
@@ -5252,6 +5626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28311735,
             "language": "Kotlin",
             "last_commit": "2017-12-03T07:51:30Z",
             "owner": "mplatvoet",
@@ -5266,6 +5641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28311735,
             "language": "Kotlin",
             "last_commit": "2017-12-03T07:51:30Z",
             "owner": "mplatvoet",
@@ -5280,6 +5656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96067211,
             "language": "Kotlin",
             "last_commit": "2020-10-26T03:17:07Z",
             "owner": "TonnyL",
@@ -5294,6 +5671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196667580,
             "language": "Kotlin",
             "last_commit": "2021-03-21T13:15:09Z",
             "owner": "feelschaotic",
@@ -5308,6 +5686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122661183,
             "language": "Kotlin",
             "last_commit": "2021-10-11T16:50:34Z",
             "owner": "andremion",
@@ -5322,6 +5701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150970562,
             "language": "Kotlin",
             "last_commit": "2019-06-14T19:49:07Z",
             "owner": "saket",
@@ -5336,6 +5716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97512779,
             "language": "Kotlin",
             "last_commit": "2021-03-24T13:53:48Z",
             "owner": "zawadz88",
@@ -5350,6 +5731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50785277,
             "language": "Kotlin",
             "last_commit": "2025-07-02T09:20:09Z",
             "owner": "sdeleuze",
@@ -5364,6 +5746,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34593880,
             "language": "Kotlin",
             "last_commit": "2019-01-19T01:08:01Z",
             "owner": "chiuki",
@@ -5378,6 +5761,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46708958,
             "language": "Kotlin",
             "last_commit": "2026-08-01T04:49:34Z",
             "owner": "ffgiraldez",
@@ -5392,6 +5776,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 132657708,
             "language": "Kotlin",
             "last_commit": "2022-02-16T00:19:04Z",
             "owner": "android",
@@ -5406,6 +5791,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103246213,
             "language": "Kotlin",
             "last_commit": "2021-06-07T15:33:40Z",
             "owner": "Kotlin",
@@ -5420,6 +5806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142616550,
             "language": "Kotlin",
             "last_commit": "2026-08-07T17:18:28Z",
             "owner": "bernaferrari",
@@ -5434,6 +5821,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 124426908,
             "language": "Kotlin",
             "last_commit": "2022-07-04T04:27:41Z",
             "owner": "mozilla-lockwise",
@@ -5448,6 +5836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453908658,
             "language": "Kotlin",
             "last_commit": "2024-12-26T12:14:58Z",
             "owner": "canopas",
@@ -5462,6 +5851,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 93308442,
             "language": "Kotlin",
             "last_commit": "2019-10-06T10:53:17Z",
             "owner": "karntrehan",
@@ -5476,6 +5866,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28918479,
             "language": "Kotlin",
             "last_commit": "2026-02-21T04:43:41Z",
             "owner": "moallemi",
@@ -5490,6 +5881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54782013,
             "language": "Kotlin",
             "last_commit": "2018-07-06T11:46:31Z",
             "owner": "patloew",
@@ -5504,6 +5896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173936383,
             "language": "Kotlin",
             "last_commit": "2021-08-30T10:12:59Z",
             "owner": "skydoves",
@@ -5518,6 +5911,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75286010,
             "language": "Kotlin",
             "last_commit": "2023-11-24T10:41:45Z",
             "owner": "Kotlin",
@@ -5532,6 +5926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64384593,
             "language": "Kotlin",
             "last_commit": "2019-08-14T07:45:49Z",
             "owner": "androidstarters",
@@ -5546,6 +5941,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154655146,
             "language": "Kotlin",
             "last_commit": "2018-11-13T11:29:34Z",
             "owner": "armcha",
@@ -5560,6 +5956,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169598303,
             "language": "Kotlin",
             "last_commit": "2020-02-02T11:04:54Z",
             "owner": "the-super-toys",
@@ -5574,6 +5971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65161139,
             "language": "Kotlin",
             "last_commit": "2019-07-26T19:11:34Z",
             "owner": "bassaer",
@@ -5588,6 +5986,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253684274,
             "language": "Kotlin",
             "last_commit": "2020-06-11T20:13:11Z",
             "owner": "opentrace-community",
@@ -5602,6 +6001,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112032910,
             "language": "Kotlin",
             "last_commit": "2025-02-22T16:52:42Z",
             "owner": "cdimascio",
@@ -5616,6 +6016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87231563,
             "language": "Kotlin",
             "last_commit": "2019-02-07T13:48:06Z",
             "owner": "JesusM",
@@ -5630,6 +6031,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 138705451,
             "language": "Kotlin",
             "last_commit": "2022-02-23T15:43:37Z",
             "owner": "freeletics",
@@ -5644,6 +6046,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 74062359,
             "language": "Kotlin",
             "last_commit": "2020-04-23T11:02:13Z",
             "owner": "Kotlin",
@@ -5658,6 +6061,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25823250,
             "language": "Kotlin",
             "last_commit": "2018-08-12T03:58:23Z",
             "owner": "xiprox",
@@ -5672,6 +6076,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 63780762,
             "language": "Kotlin",
             "last_commit": "2019-07-20T11:00:05Z",
             "owner": "jabbink",
@@ -5686,6 +6091,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 125015293,
             "language": "Kotlin",
             "last_commit": "2020-09-09T20:27:23Z",
             "owner": "florent37",
@@ -5700,6 +6106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90392225,
             "language": "Kotlin",
             "last_commit": "2018-07-14T03:15:23Z",
             "owner": "TonnyL",
@@ -5714,6 +6121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 87368984,
             "language": "Kotlin",
             "last_commit": "2019-09-17T15:47:33Z",
             "owner": "gojuno",
@@ -5728,6 +6136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27993911,
             "language": "Kotlin",
             "last_commit": "2018-02-12T11:47:46Z",
             "owner": "damianpetla",
@@ -5742,6 +6151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50421113,
             "language": "Kotlin",
             "last_commit": "2017-08-25T09:22:36Z",
             "owner": "mcxiaoke",
@@ -5756,8 +6166,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296142904,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T20:16:27Z",
+            "last_commit": "2026-08-19T08:39:01Z",
             "owner": "KStateMachine",
             "repo": "kstatemachine",
             "stars": 509
@@ -5770,6 +6181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9009498,
             "language": "Kotlin",
             "last_commit": "2019-11-08T08:43:54Z",
             "owner": "wasabifx",
@@ -5784,6 +6196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7249845,
             "language": "Kotlin",
             "last_commit": "2017-05-26T13:25:09Z",
             "owner": "TinyMission",
@@ -5798,6 +6211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127146179,
             "language": "Kotlin",
             "last_commit": "2021-12-16T09:04:46Z",
             "owner": "valiktor",
@@ -5812,6 +6226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47591925,
             "language": "Kotlin",
             "last_commit": "2019-05-15T15:03:49Z",
             "owner": "brianegan",
@@ -5826,6 +6241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43665276,
             "language": "Kotlin",
             "last_commit": "2022-05-20T20:56:44Z",
             "owner": "cbeust",
@@ -5840,6 +6256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80822585,
             "language": "Kotlin",
             "last_commit": "2019-01-11T11:21:22Z",
             "owner": "MarcinMoskala",
@@ -5854,6 +6271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155874964,
             "language": "Kotlin",
             "last_commit": "2020-07-06T08:22:50Z",
             "owner": "netguru",
@@ -5868,6 +6286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46047656,
             "language": "Kotlin",
             "last_commit": "2017-05-19T08:29:20Z",
             "owner": "BennyWang",
@@ -5882,6 +6301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92293409,
             "language": "Kotlin",
             "last_commit": "2023-04-18T22:20:58Z",
             "owner": "SeunAdelekan",
@@ -5896,6 +6316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117288912,
             "language": "Kotlin",
             "last_commit": "2018-10-07T16:59:39Z",
             "owner": "iglaweb",
@@ -5910,8 +6331,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 628167080,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T10:21:49Z",
+            "last_commit": "2026-08-19T04:14:45Z",
             "owner": "Ahoo-Wang",
             "repo": "Wow",
             "stars": 303
@@ -5924,6 +6346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 774714857,
             "language": "Kotlin",
             "last_commit": "2026-06-26T06:15:39Z",
             "owner": "daniel-rusu",
@@ -5938,6 +6361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 662135204,
             "language": "Kotlin",
             "last_commit": "2026-07-15T08:11:29Z",
             "owner": "mahozad",
@@ -5952,6 +6376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 647186626,
             "language": "Kotlin",
             "last_commit": "2026-05-08T17:18:09Z",
             "owner": "Ashampoo",
@@ -5966,6 +6391,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 40086213,
             "language": "Kotlin",
             "last_commit": "2019-09-06T13:27:42Z",
             "owner": "kohesive",
@@ -5980,6 +6406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 868659074,
             "language": "Kotlin",
             "last_commit": "2025-04-24T22:39:43Z",
             "owner": "eriksencosta",
@@ -5994,6 +6421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 698196719,
             "language": "Kotlin",
             "last_commit": "2024-12-26T08:43:23Z",
             "owner": "canopas",
@@ -6008,6 +6436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11309008,
             "language": "Kotlin",
             "last_commit": "2017-09-12T19:21:35Z",
             "owner": "cheptsov",
@@ -6022,6 +6451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31116728,
             "language": "Kotlin",
             "last_commit": "2019-10-01T12:34:04Z",
             "owner": "andrewoma",
@@ -6036,6 +6466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 481510178,
             "language": "Kotlin",
             "last_commit": "2026-02-14T18:00:17Z",
             "owner": "krud-dev",
@@ -6050,6 +6481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56166503,
             "language": "Kotlin",
             "last_commit": "2026-07-15T04:22:01Z",
             "owner": "mvysny",
@@ -6064,6 +6496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87302297,
             "language": "Kotlin",
             "last_commit": "2020-07-02T17:43:15Z",
             "owner": "MarcinMoskala",
@@ -6078,6 +6511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222342832,
             "language": "Kotlin",
             "last_commit": "2024-07-10T13:59:24Z",
             "owner": "alpas",
@@ -6092,6 +6526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41204568,
             "language": "Kotlin",
             "last_commit": "2018-11-15T18:16:49Z",
             "owner": "kohesive",
@@ -6106,6 +6541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221466107,
             "language": "Kotlin",
             "last_commit": "2023-07-04T07:45:48Z",
             "owner": "corbella83",
@@ -6120,6 +6556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444514222,
             "language": "Kotlin",
             "last_commit": "2026-06-29T04:32:24Z",
             "owner": "z4kn4fein",
@@ -6134,6 +6571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84814989,
             "language": "Kotlin",
             "last_commit": "2018-08-27T13:35:03Z",
             "owner": "MarcinMoskala",
@@ -6148,6 +6586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84814989,
             "language": "Kotlin",
             "last_commit": "2018-08-27T13:35:03Z",
             "owner": "MarcinMoskala",
@@ -6162,6 +6601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40305456,
             "language": "Kotlin",
             "last_commit": "2020-07-01T16:06:52Z",
             "owner": "kohesive",
@@ -6176,6 +6616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23981690,
             "language": "Kotlin",
             "last_commit": "2020-07-01T14:03:32Z",
             "owner": "kohesive",
@@ -6190,6 +6631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 661675883,
             "language": "Kotlin",
             "last_commit": "2024-12-26T12:10:09Z",
             "owner": "canopas",
@@ -6204,8 +6646,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 360576464,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T01:22:23Z",
+            "last_commit": "2026-08-19T12:03:44Z",
             "owner": "Ahoo-Wang",
             "repo": "CoSky",
             "stars": 97
@@ -6218,6 +6661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402993185,
             "language": "Kotlin",
             "last_commit": "2026-08-11T12:23:10Z",
             "owner": "sami-eljabali",
@@ -6232,6 +6676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153099469,
             "language": "Kotlin",
             "last_commit": "2020-06-10T08:22:03Z",
             "owner": "PicsArt",
@@ -6246,6 +6691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73965224,
             "language": "Java",
             "last_commit": "2022-07-29T15:30:15Z",
             "owner": "mariomac",
@@ -6260,6 +6706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579217789,
             "language": "Kotlin",
             "last_commit": "2023-08-14T07:32:57Z",
             "owner": "kryptokrona",
@@ -6274,6 +6721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152956594,
             "language": "Kotlin",
             "last_commit": "2020-11-12T05:20:30Z",
             "owner": "bakhtiyork",
@@ -6288,6 +6736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92713603,
             "language": "Kotlin",
             "last_commit": "2017-06-01T13:14:48Z",
             "owner": "rahulchowdhury",
@@ -6302,6 +6751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100386325,
             "language": "Kotlin",
             "last_commit": "2025-09-25T16:16:21Z",
             "owner": "hypeapps",
@@ -6316,6 +6766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114942384,
             "language": "Kotlin",
             "last_commit": "2020-01-25T12:03:02Z",
             "owner": "adrielcafe",
@@ -6330,8 +6781,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567999401,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T13:08:13Z",
+            "last_commit": "2026-08-19T08:26:29Z",
             "owner": "Ahoo-Wang",
             "repo": "CoSec",
             "stars": 46
@@ -6344,6 +6796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61144163,
             "language": "Kotlin",
             "last_commit": "2020-09-30T19:04:05Z",
             "owner": "lightningkite",
@@ -6358,6 +6811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128978530,
             "language": "Kotlin",
             "last_commit": "2019-01-28T03:45:45Z",
             "owner": "pm-dev",
@@ -6372,6 +6826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 823213218,
             "language": "Kotlin",
             "last_commit": "2025-06-01T16:46:21Z",
             "owner": "trueangle",
@@ -6386,6 +6841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97034221,
             "language": "Java",
             "last_commit": "2019-01-24T16:24:23Z",
             "owner": "ufoscout",
@@ -6400,6 +6856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49956735,
             "language": "Kotlin",
             "last_commit": "2017-09-18T18:39:02Z",
             "owner": "inaka",
@@ -6414,6 +6871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136514018,
             "language": "Kotlin",
             "last_commit": "2026-08-11T19:16:19Z",
             "owner": "anschnapp",
@@ -6428,6 +6886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74597510,
             "language": "Kotlin",
             "last_commit": "2017-03-13T20:01:07Z",
             "owner": "edsilfer",
@@ -6442,6 +6901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 662959177,
             "language": "Kotlin",
             "last_commit": "2026-05-11T10:44:13Z",
             "owner": "Ashampoo",
@@ -6456,6 +6916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148927806,
             "language": "Kotlin",
             "last_commit": "2020-01-25T12:04:46Z",
             "owner": "adrielcafe",
@@ -6470,6 +6931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 669444868,
             "language": "Kotlin",
             "last_commit": "2026-06-05T19:31:55Z",
             "owner": "alexmaryin",
@@ -6484,6 +6946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86938780,
             "language": "Kotlin",
             "last_commit": "2017-09-23T08:51:39Z",
             "owner": "programmerr47",
@@ -6498,6 +6961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231481189,
             "language": "Kotlin",
             "last_commit": "2021-09-12T20:07:57Z",
             "owner": "AurityLab",
@@ -6512,6 +6976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140305373,
             "language": "Kotlin",
             "last_commit": "2018-08-22T09:50:43Z",
             "owner": "frankfarrell",
@@ -6526,6 +6991,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 127426166,
             "language": "HTML",
             "last_commit": "2019-05-24T18:34:36Z",
             "owner": "SalomonBrys",
@@ -6540,6 +7006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 659762854,
             "language": "Kotlin",
             "last_commit": "2023-07-03T14:39:14Z",
             "owner": "corbella83",
@@ -6554,6 +7021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 779097899,
             "language": "Kotlin",
             "last_commit": "2026-02-07T23:03:39Z",
             "owner": "eriksencosta",
@@ -6568,6 +7036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 778066929,
             "language": "Kotlin",
             "last_commit": "2025-04-23T20:04:55Z",
             "owner": "eriksencosta",
@@ -6582,54 +7051,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 942938463,
             "language": "Kotlin",
             "last_commit": "2026-08-19T01:32:49Z",
             "owner": "octaviospain",
             "repo": "lirp",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "XiaomiADBFastbootTools",
-          "description": "A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "play-billing-samples",
-          "description": "Samples for Google Play In-app Billing",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "tachiyomi-extensions",
-          "description": "Source extensions for the Tachiyomi app.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "TimelineView",
-          "description": "Cute timeline view for android",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Croppy",
-          "description": "Image Cropping Library for Android",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "KBuilders",
-          "description": "KBuilders turns your Java builders into beautiful Type-Safe Builders.",
-          "children": []
         }
       ],
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -6638,11 +7072,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67702184,
             "language": "Kotlin",
             "last_commit": "2026-08-18T18:38:55Z",
             "owner": "topjohnwu",
             "repo": "Magisk",
-            "stars": 62288
+            "stars": 62298
           }
         },
         {
@@ -6652,11 +7087,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18347476,
             "language": "Kotlin",
             "last_commit": "2023-01-05T18:35:51Z",
             "owner": "google",
             "repo": "iosched",
-            "stars": 21644
+            "stars": 21643
           }
         },
         {
@@ -6666,11 +7102,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26357991,
             "language": "Kotlin",
             "last_commit": "2026-07-21T12:59:15Z",
             "owner": "iSoron",
             "repo": "uhabits",
-            "stars": 10140
+            "stars": 10143
           }
         },
         {
@@ -6680,6 +7117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268501098,
             "language": "Kotlin",
             "last_commit": "2026-08-17T06:13:26Z",
             "owner": "skydoves",
@@ -6694,11 +7132,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107244490,
             "language": "Kotlin",
             "last_commit": "2026-08-17T12:24:14Z",
             "owner": "Kunzisoft",
             "repo": "KeePassDX",
-            "stars": 7139
+            "stars": 7141
           }
         },
         {
@@ -6708,6 +7147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96525128,
             "language": "Kotlin",
             "last_commit": "2020-09-30T20:20:13Z",
             "owner": "sourcerer-io",
@@ -6722,6 +7162,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100624553,
             "language": "Kotlin",
             "last_commit": "2024-11-12T18:56:00Z",
             "owner": "chrisbanes",
@@ -6736,6 +7177,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 126314606,
             "language": "Kotlin",
             "last_commit": "2023-02-20T10:15:34Z",
             "owner": "mozilla-mobile",
@@ -6750,11 +7192,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47726042,
             "language": "Kotlin",
             "last_commit": "2026-08-17T23:09:06Z",
             "owner": "VREMSoftwareDevelopment",
             "repo": "WiFiAnalyzer",
-            "stars": 4908
+            "stars": 4909
           }
         },
         {
@@ -6764,11 +7207,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78869127,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T23:25:28Z",
+            "last_commit": "2026-08-19T12:27:14Z",
             "owner": "duckduckgo",
             "repo": "Android",
-            "stars": 4786
+            "stars": 4788
           }
         },
         {
@@ -6778,6 +7222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283883226,
             "language": "Kotlin",
             "last_commit": "2024-10-26T21:49:00Z",
             "owner": "KieronQuinn",
@@ -6792,11 +7237,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51870853,
             "language": "Kotlin",
             "last_commit": "2024-08-18T04:23:47Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4013
+            "stars": 4014
           }
         },
         {
@@ -6806,11 +7252,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123426934,
             "language": "Kotlin",
             "last_commit": "2026-07-27T13:29:42Z",
             "owner": "videolan",
             "repo": "vlc-android",
-            "stars": 3947
+            "stars": 3949
           }
         },
         {
@@ -6820,6 +7267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108403211,
             "language": "Kotlin",
             "last_commit": "2026-08-12T13:53:52Z",
             "owner": "JetBrains",
@@ -6834,8 +7282,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9306568,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T01:31:35Z",
+            "last_commit": "2026-08-19T12:31:25Z",
             "owner": "wordpress-mobile",
             "repo": "WordPress-Android",
             "stars": 3147
@@ -6848,6 +7297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80837945,
             "language": "Kotlin",
             "last_commit": "2026-01-29T17:52:32Z",
             "owner": "orgzly",
@@ -6862,6 +7312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38667206,
             "language": "Kotlin",
             "last_commit": "2020-10-02T14:28:20Z",
             "owner": "antoniolg",
@@ -6876,6 +7327,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22808785,
             "language": "Kotlin",
             "last_commit": "2024-10-15T08:22:38Z",
             "owner": "android-password-store",
@@ -6890,6 +7342,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 68798776,
             "language": "Kotlin",
             "last_commit": "2022-11-11T18:43:23Z",
             "owner": "fossasia",
@@ -6904,6 +7357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247669052,
             "language": "Kotlin",
             "last_commit": "2026-03-20T03:03:16Z",
             "owner": "PatilShreyas",
@@ -6918,6 +7372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57029623,
             "language": "Kotlin",
             "last_commit": "2026-08-16T11:38:17Z",
             "owner": "ZacSweers",
@@ -6932,6 +7387,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 114199331,
             "language": "Kotlin",
             "last_commit": "2022-03-04T16:56:17Z",
             "owner": "JakeWharton",
@@ -6946,11 +7402,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31075682,
             "language": "Kotlin",
             "last_commit": "2026-08-18T18:49:01Z",
             "owner": "HabitRPG",
             "repo": "habitica-android",
-            "stars": 1814
+            "stars": 1815
           }
         },
         {
@@ -6960,6 +7417,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 252643070,
             "language": "Kotlin",
             "last_commit": "2024-05-14T13:58:28Z",
             "owner": "ProtonMail",
@@ -6974,6 +7432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 249939577,
             "language": "Kotlin",
             "last_commit": "2026-01-28T09:28:37Z",
             "owner": "amitshekhariitbhu",
@@ -6988,6 +7447,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51436517,
             "language": "Kotlin",
             "last_commit": "2025-04-23T22:20:54Z",
             "owner": "allgood",
@@ -7002,6 +7462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115203383,
             "language": "Kotlin",
             "last_commit": "2018-09-27T08:57:38Z",
             "owner": "DroidKaigi",
@@ -7016,6 +7477,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 249726267,
             "language": "Kotlin",
             "last_commit": "2021-11-14T09:04:44Z",
             "owner": "skydoves",
@@ -7030,6 +7492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7777477,
             "language": "Kotlin",
             "last_commit": "2025-04-22T04:21:28Z",
             "owner": "ligi",
@@ -7044,6 +7507,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 264477930,
             "language": "Kotlin",
             "last_commit": "2022-12-28T15:18:02Z",
             "owner": "immuni-app",
@@ -7058,6 +7522,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143598291,
             "language": "Kotlin",
             "last_commit": "2019-05-16T08:22:26Z",
             "owner": "DroidKaigi",
@@ -7072,6 +7537,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 261523644,
             "language": "Kotlin",
             "last_commit": "2020-06-26T11:18:04Z",
             "owner": "ukhsa-collaboration",
@@ -7086,6 +7552,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202978106,
             "language": "Kotlin",
             "last_commit": "2023-01-25T03:23:53Z",
             "owner": "DroidKaigi",
@@ -7100,6 +7567,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91629435,
             "language": "Kotlin",
             "last_commit": "2020-07-17T15:17:35Z",
             "owner": "dlew",
@@ -7114,24 +7582,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370063368,
             "language": null,
             "last_commit": "2021-05-23T13:42:55Z",
             "owner": "h4h13",
             "repo": "RetroMusicPlayer",
             "stars": 43
           }
-        },
-        {
-          "node_type": "item",
-          "title": "tachiyomi",
-          "description": "Free and open source manga reader for Android.",
-          "children": []
         }
       ],
       "title": "Applications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -7140,11 +7603,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51148780,
             "language": "Kotlin",
             "last_commit": "2026-08-12T23:40:24Z",
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45792
+            "stars": 45795
           }
         },
         {
@@ -7154,11 +7618,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211288349,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
+            "last_commit": "2026-08-19T09:01:09Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23381
+            "stars": 23384
           }
         },
         {
@@ -7168,11 +7633,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 134505361,
             "language": "Kotlin",
             "last_commit": "2024-08-02T10:26:55Z",
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17767
+            "stars": 17766
           }
         },
         {
@@ -7182,11 +7648,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45261969,
             "language": "Kotlin",
             "last_commit": "2024-01-04T20:49:31Z",
             "owner": "nickbutcher",
             "repo": "plaid",
-            "stars": 16176
+            "stars": 16177
           }
         },
         {
@@ -7196,6 +7663,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 31929346,
             "language": "Kotlin",
             "last_commit": "2026-01-09T15:17:00Z",
             "owner": "android",
@@ -7210,6 +7678,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36470590,
             "language": "Kotlin",
             "last_commit": "2020-12-07T17:39:00Z",
             "owner": "chrisbanes",
@@ -7224,6 +7693,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158460787,
             "language": "Kotlin",
             "last_commit": "2026-08-17T06:06:26Z",
             "owner": "igorwojda",
@@ -7238,11 +7708,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185094070,
             "language": "Kotlin",
             "last_commit": "2026-08-10T18:50:56Z",
             "owner": "android",
             "repo": "camera-samples",
-            "stars": 5448
+            "stars": 5449
           }
         },
         {
@@ -7252,6 +7723,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92510608,
             "language": "Kotlin",
             "last_commit": "2025-04-16T07:09:50Z",
             "owner": "android10",
@@ -7266,6 +7738,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225287739,
             "language": "Kotlin",
             "last_commit": "2025-09-04T22:43:30Z",
             "owner": "vinaygaba",
@@ -7280,6 +7753,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8856204,
             "language": null,
             "last_commit": "2024-01-22T15:22:27Z",
             "owner": "Kotlin",
@@ -7294,6 +7768,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8856204,
             "language": null,
             "last_commit": "2024-01-22T15:22:27Z",
             "owner": "Kotlin",
@@ -7308,11 +7783,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22558387,
             "language": "Kotlin",
             "last_commit": "2026-08-18T05:14:41Z",
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3078
+            "stars": 3079
           }
         },
         {
@@ -7322,6 +7798,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248218113,
             "language": "Kotlin",
             "last_commit": "2026-03-02T16:55:14Z",
             "owner": "LukasLechnerDev",
@@ -7336,6 +7813,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38667206,
             "language": "Kotlin",
             "last_commit": "2020-10-02T14:28:20Z",
             "owner": "antoniolg",
@@ -7350,8 +7828,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7964711,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T00:13:12Z",
+            "last_commit": "2026-08-19T05:29:17Z",
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
             "stars": 2428
@@ -7364,6 +7843,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 268027139,
             "language": "Kotlin",
             "last_commit": "2023-06-01T08:19:26Z",
             "owner": "corona-warn-app",
@@ -7378,6 +7858,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32647256,
             "language": "Kotlin",
             "last_commit": "2018-04-10T17:01:11Z",
             "owner": "antoniolg",
@@ -7392,6 +7873,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32647256,
             "language": "Kotlin",
             "last_commit": "2018-04-10T17:01:11Z",
             "owner": "antoniolg",
@@ -7406,6 +7888,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115441256,
             "language": "Kotlin",
             "last_commit": "2026-08-08T23:23:05Z",
             "owner": "sanogueralorenzo",
@@ -7420,6 +7903,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 160725246,
             "language": "Kotlin",
             "last_commit": "2023-06-22T16:51:34Z",
             "owner": "google-developer-training",
@@ -7434,6 +7918,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150827271,
             "language": "Kotlin",
             "last_commit": "2025-08-16T13:51:35Z",
             "owner": "Splitties",
@@ -7448,6 +7933,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43504255,
             "language": "Kotlin",
             "last_commit": "2018-11-14T15:57:36Z",
             "owner": "byoutline",
@@ -7462,6 +7948,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41577702,
             "language": "Kotlin",
             "last_commit": "2021-02-05T14:00:56Z",
             "owner": "nekocode",
@@ -7476,6 +7963,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230355242,
             "language": "Kotlin",
             "last_commit": "2024-01-25T05:22:02Z",
             "owner": "mrcsxsiq",
@@ -7490,6 +7978,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230355242,
             "language": "Kotlin",
             "last_commit": "2024-01-25T05:22:02Z",
             "owner": "mrcsxsiq",
@@ -7504,6 +7993,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242478597,
             "language": "Kotlin",
             "last_commit": "2022-05-10T12:39:44Z",
             "owner": "skydoves",
@@ -7518,6 +8008,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96443011,
             "language": "Kotlin",
             "last_commit": "2018-11-26T15:20:21Z",
             "owner": "nickbutcher",
@@ -7532,6 +8023,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 76473101,
             "language": "Kotlin",
             "last_commit": "2020-03-31T09:27:27Z",
             "owner": "Kotlin",
@@ -7546,6 +8038,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54212355,
             "language": "Kotlin",
             "last_commit": "2018-06-06T12:35:41Z",
             "owner": "TonnyL",
@@ -7560,6 +8053,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110572287,
             "language": "Kotlin",
             "last_commit": "2023-04-11T09:43:15Z",
             "owner": "amanjeetsingh150",
@@ -7574,6 +8068,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127247984,
             "language": "Kotlin",
             "last_commit": "2021-03-19T12:33:38Z",
             "owner": "burhanrashid52",
@@ -7588,6 +8083,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92169348,
             "language": "Kotlin",
             "last_commit": "2020-11-03T03:20:13Z",
             "owner": "AkshayChordiya",
@@ -7602,6 +8098,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122669273,
             "language": "Kotlin",
             "last_commit": "2020-06-09T14:35:25Z",
             "owner": "mrsegev",
@@ -7616,6 +8113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198384890,
             "language": "Kotlin",
             "last_commit": "2020-10-01T11:20:59Z",
             "owner": "Eli-Fox",
@@ -7630,6 +8128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175395638,
             "language": "Kotlin",
             "last_commit": "2020-03-26T17:06:57Z",
             "owner": "PhilippeBoisney",
@@ -7644,6 +8143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27993911,
             "language": "Kotlin",
             "last_commit": "2018-02-12T11:47:46Z",
             "owner": "damianpetla",
@@ -7658,6 +8158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5296191,
             "language": "Java",
             "last_commit": "2015-10-06T13:59:13Z",
             "owner": "dodyg",
@@ -7672,6 +8173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4582448,
             "language": "Kotlin",
             "last_commit": "2016-02-24T07:52:23Z",
             "owner": "dodyg",
@@ -7686,6 +8188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236862186,
             "language": "Kotlin",
             "last_commit": "2025-10-15T09:24:25Z",
             "owner": "TobseF",
@@ -7700,6 +8203,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90792131,
             "language": "Kotlin",
             "last_commit": "2024-12-06T00:06:51Z",
             "owner": "android",
@@ -7714,6 +8218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48505333,
             "language": "Kotlin",
             "last_commit": "2016-03-07T14:53:41Z",
             "owner": "inaka",
@@ -7728,6 +8233,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47928570,
             "language": "Kotlin",
             "last_commit": "2022-05-17T17:24:59Z",
             "owner": "MakinGiants",
@@ -7742,6 +8248,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233910949,
             "language": "Kotlin",
             "last_commit": "2020-08-04T07:02:35Z",
             "owner": "alpas",
@@ -7756,6 +8263,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291176963,
             "language": "Kotlin",
             "last_commit": "2023-05-01T15:09:47Z",
             "owner": "pintowar",
@@ -7770,36 +8278,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146750045,
             "language": "Kotlin",
             "last_commit": "2020-01-25T12:05:00Z",
             "owner": "adrielcafe",
             "repo": "GreenHellCompanionApp",
             "stars": 5
           }
-        },
-        {
-          "node_type": "item",
-          "title": "material-components-android-examples",
-          "description": "Companion example apps and code for MDC-Android.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Tachiyomi",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "tachiyomi",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Samples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -7808,11 +8299,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71729669,
             "language": "MDX",
-            "last_commit": "2026-08-19T01:04:19Z",
+            "last_commit": "2026-08-19T12:16:36Z",
             "owner": "detekt",
             "repo": "detekt",
-            "stars": 7029
+            "stars": 7030
           }
         },
         {
@@ -7822,6 +8314,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21763603,
             "language": "Kotlin",
             "last_commit": "2026-08-18T14:39:28Z",
             "owner": "Kotlin",
@@ -7836,6 +8329,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53889290,
             "language": "Kotlin",
             "last_commit": "2025-06-24T14:47:11Z",
             "owner": "kscripting",
@@ -7850,6 +8344,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63066291,
             "language": "Kotlin",
             "last_commit": "2026-07-23T12:14:23Z",
             "owner": "Kotlin",
@@ -7864,6 +8359,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10883743,
             "language": "Kotlin",
             "last_commit": "2021-06-15T07:31:43Z",
             "owner": "vektah",
@@ -7878,8 +8374,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13929787,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T21:43:36Z",
+            "last_commit": "2026-08-19T11:59:07Z",
             "owner": "SonarSource",
             "repo": "sonarlint-intellij",
             "stars": 638
@@ -7892,6 +8389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6857126,
             "language": "Vim Script",
             "last_commit": "2022-12-30T12:08:36Z",
             "owner": "udalov",
@@ -7906,6 +8404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47400762,
             "language": "Java",
             "last_commit": "2018-11-20T17:42:24Z",
             "owner": "nekocode",
@@ -7920,6 +8419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5243085,
             "language": null,
             "last_commit": "2021-08-04T18:57:12Z",
             "owner": "vkostyukov",
@@ -7934,6 +8434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234338144,
             "language": "HTML",
             "last_commit": "2023-01-25T03:23:47Z",
             "owner": "Mkohm",
@@ -7945,7 +8446,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -7954,31 +8455,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159511104,
             "language": "Kotlin",
             "last_commit": "2026-08-17T04:51:40Z",
             "owner": "igorwojda",
             "repo": "kotlin-coding-challenges",
             "stars": 1054
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Kotlin Trending on Github",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:51:49.456Z",
+    "last_updated": "2026-08-19T12:36:18.909Z",
     "original_repository": "mcxiaoke/awesome-kotlin",
+    "original_repository_id": 50847517,
     "original_repository_sha": "dc9bdd9497acb295f4d6eaeb9436f6c59ea49586",
     "enhanced_repository": "enhansome/enhansome-kotlin",
     "enhanced_repository_description": null,
