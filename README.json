@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3432266,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T14:04:54Z",
+            "last_commit": "2026-08-25T00:17:18Z",
             "owner": "JetBrains",
             "repo": "kotlin",
-            "stars": 53353
+            "stars": 53355
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2024-08-06T08:22:02Z",
             "owner": "alibaba",
             "repo": "p3c",
-            "stars": 30846
+            "stars": 30847
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-24T10:00:10Z",
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29984
+            "stars": 29985
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-06-18T04:21:02Z",
             "owner": "RikkaApps",
             "repo": "Shizuku",
-            "stars": 29278
+            "stars": 29295
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2023-02-06T02:57:13Z",
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19553
+            "stars": 19554
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 293498508,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T13:22:57Z",
+            "last_commit": "2026-08-24T18:56:50Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19315
+            "stars": 19317
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 40136600,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T13:54:51Z",
+            "last_commit": "2026-08-24T16:13:20Z",
             "owner": "ktorio",
             "repo": "ktor",
-            "stars": 14499
+            "stars": 14500
           }
         },
         {
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 40136600,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T13:54:51Z",
+            "last_commit": "2026-08-24T16:13:20Z",
             "owner": "ktorio",
             "repo": "ktor",
-            "stars": 14499
+            "stars": 14500
           }
         },
         {
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 201684760,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T05:55:05Z",
+            "last_commit": "2026-08-24T20:06:09Z",
             "owner": "coil-kt",
             "repo": "coil",
             "stars": 11881
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 30120110,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T21:06:47Z",
+            "last_commit": "2026-08-24T21:06:25Z",
             "owner": "mikepenz",
             "repo": "MaterialDrawer",
             "stars": 11646
@@ -303,10 +303,10 @@
             "archived": false,
             "id": 111605778,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T13:42:43Z",
+            "last_commit": "2026-08-24T15:14:47Z",
             "owner": "yairm210",
             "repo": "Unciv",
-            "stars": 11123
+            "stars": 11129
           }
         },
         {
@@ -318,7 +318,7 @@
             "archived": false,
             "id": 11495787,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T06:01:10Z",
+            "last_commit": "2026-08-24T18:13:24Z",
             "owner": "JakeWharton",
             "repo": "timber",
             "stars": 10847
@@ -333,7 +333,7 @@
             "archived": false,
             "id": 36814724,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T07:57:03Z",
+            "last_commit": "2026-08-24T22:00:24Z",
             "owner": "AppIntro",
             "repo": "AppIntro",
             "stars": 10570
@@ -396,7 +396,7 @@
             "last_commit": "2021-11-18T17:51:21Z",
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9569
+            "stars": 9570
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-04-06T02:43:10Z",
             "owner": "zhanghai",
             "repo": "MaterialFiles",
-            "stars": 8800
+            "stars": 8802
           }
         },
         {
@@ -543,7 +543,7 @@
             "archived": false,
             "id": 71729669,
             "language": "MDX",
-            "last_commit": "2026-08-24T09:47:32Z",
+            "last_commit": "2026-08-25T01:17:55Z",
             "owner": "detekt",
             "repo": "detekt",
             "stars": 7031
@@ -621,7 +621,7 @@
             "last_commit": "2026-08-21T17:53:11Z",
             "owner": "sqldelight",
             "repo": "sqldelight",
-            "stars": 6862
+            "stars": 6863
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-21T17:53:11Z",
             "owner": "sqldelight",
             "repo": "sqldelight",
-            "stars": 6862
+            "stars": 6863
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-08-17T07:40:49Z",
             "owner": "gotson",
             "repo": "komga",
-            "stars": 6598
+            "stars": 6599
           }
         },
         {
@@ -693,10 +693,10 @@
             "archived": false,
             "id": 116107171,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T03:29:04Z",
+            "last_commit": "2026-08-24T17:12:16Z",
             "owner": "Mygod",
             "repo": "VPNHotspot",
-            "stars": 6340
+            "stars": 6341
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2026-08-22T16:19:10Z",
             "owner": "tasks",
             "repo": "tasks",
-            "stars": 5511
+            "stars": 5510
           }
         },
         {
@@ -1011,7 +1011,7 @@
             "last_commit": "2023-06-02T16:19:16Z",
             "owner": "moezbhatti",
             "repo": "qksms",
-            "stars": 4591
+            "stars": 4592
           }
         },
         {
@@ -1053,7 +1053,7 @@
             "archived": false,
             "id": 12274147,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T14:02:31Z",
+            "last_commit": "2026-08-24T21:20:07Z",
             "owner": "square",
             "repo": "wire",
             "stars": 4427
@@ -1101,7 +1101,7 @@
             "last_commit": "2026-08-20T23:04:32Z",
             "owner": "CypherpunkArmory",
             "repo": "UserLAnd",
-            "stars": 4262
+            "stars": 4263
           }
         },
         {
@@ -1248,10 +1248,10 @@
             "archived": false,
             "id": 179008173,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T14:03:25Z",
+            "last_commit": "2026-08-24T20:50:21Z",
             "owner": "home-assistant",
             "repo": "android",
-            "stars": 3832
+            "stars": 3834
           }
         },
         {
@@ -1293,10 +1293,10 @@
             "archived": false,
             "id": 21763603,
             "language": "Kotlin",
-            "last_commit": "2026-08-21T12:26:19Z",
+            "last_commit": "2026-08-24T14:57:56Z",
             "owner": "Kotlin",
             "repo": "dokka",
-            "stars": 3803
+            "stars": 3804
           }
         },
         {
@@ -1326,7 +1326,7 @@
             "last_commit": "2026-08-21T10:23:42Z",
             "owner": "element-hq",
             "repo": "element-android",
-            "stars": 3720
+            "stars": 3721
           }
         },
         {
@@ -1386,7 +1386,7 @@
             "last_commit": "2023-05-19T11:43:25Z",
             "owner": "bufferapp",
             "repo": "android-clean-architecture-boilerplate",
-            "stars": 3676
+            "stars": 3677
           }
         },
         {
@@ -1491,7 +1491,7 @@
             "last_commit": "2026-08-22T07:25:49Z",
             "owner": "mpv-android",
             "repo": "mpv-android",
-            "stars": 3490
+            "stars": 3491
           }
         },
         {
@@ -1548,10 +1548,10 @@
             "archived": false,
             "id": 317375887,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T03:58:51Z",
+            "last_commit": "2026-08-24T22:00:47Z",
             "owner": "Netflix",
             "repo": "dgs-framework",
-            "stars": 3384
+            "stars": 3385
           }
         },
         {
@@ -1653,10 +1653,10 @@
             "archived": false,
             "id": 22558387,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T05:41:15Z",
+            "last_commit": "2026-08-24T14:57:25Z",
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3091
+            "stars": 3093
           }
         },
         {
@@ -1776,7 +1776,7 @@
             "last_commit": "2026-08-24T09:58:03Z",
             "owner": "http4k",
             "repo": "http4k",
-            "stars": 2783
+            "stars": 2784
           }
         },
         {
@@ -1923,7 +1923,7 @@
             "archived": false,
             "id": 63582643,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T09:59:40Z",
+            "last_commit": "2026-08-24T16:03:27Z",
             "owner": "dkrivoruchko",
             "repo": "ScreenStream",
             "stars": 2512
@@ -2316,7 +2316,7 @@
             "last_commit": "2021-03-15T19:58:10Z",
             "owner": "hussien89aa",
             "repo": "KotlinUdemy",
-            "stars": 2020
+            "stars": 2019
           }
         },
         {
@@ -2328,7 +2328,7 @@
             "archived": false,
             "id": 25976799,
             "language": "Dart",
-            "last_commit": "2026-08-24T11:05:09Z",
+            "last_commit": "2026-08-24T20:11:45Z",
             "owner": "fossasia",
             "repo": "badgemagic-app",
             "stars": 2001
@@ -2466,7 +2466,7 @@
             "last_commit": "2024-05-11T17:14:49Z",
             "owner": "androiddevnotes",
             "repo": "awesome-android-learning-resources",
-            "stars": 1940
+            "stars": 1941
           }
         },
         {
@@ -2943,7 +2943,7 @@
             "archived": false,
             "id": 93250841,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T06:31:45Z",
+            "last_commit": "2026-08-25T00:40:22Z",
             "owner": "JetBrains",
             "repo": "kotlin-wrappers",
             "stars": 1592
@@ -3123,7 +3123,7 @@
             "archived": false,
             "id": 6926049,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T13:27:47Z",
+            "last_commit": "2026-08-25T01:39:07Z",
             "owner": "stripe",
             "repo": "stripe-android",
             "stars": 1534
@@ -3531,7 +3531,7 @@
             "last_commit": "2025-09-03T20:07:58Z",
             "owner": "ligi",
             "repo": "SurvivalManual",
-            "stars": 1283
+            "stars": 1284
           }
         },
         {
@@ -3588,7 +3588,7 @@
             "archived": false,
             "id": 2406783,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T13:06:21Z",
+            "last_commit": "2026-08-24T20:44:36Z",
             "owner": "bugsnag",
             "repo": "bugsnag-android",
             "stars": 1241
@@ -3656,6 +3656,21 @@
         },
         {
           "node_type": "item",
+          "title": "compose-menu",
+          "description": "An unstyled Menu (Dropdown) Compose Multiplatform component with keyboard navigation and animation support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 792741661,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T07:45:16Z",
+            "owner": "composablehorizons",
+            "repo": "compose-unstyled",
+            "stars": 1215
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Reaktive",
           "description": "Kotlin multi-platform implementation of Reactive Extensions",
           "children": [],
@@ -3681,21 +3696,6 @@
             "last_commit": "2026-08-02T00:42:18Z",
             "owner": "guardian",
             "repo": "toolargetool",
-            "stars": 1214
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "compose-menu",
-          "description": "An unstyled Menu (Dropdown) Compose Multiplatform component with keyboard navigation and animation support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 792741661,
-            "language": "Kotlin",
-            "last_commit": "2026-08-24T07:45:16Z",
-            "owner": "composablehorizons",
-            "repo": "compose-unstyled",
             "stars": 1214
           }
         },
@@ -3786,7 +3786,7 @@
             "last_commit": "2026-05-28T21:13:14Z",
             "owner": "grote",
             "repo": "Transportr",
-            "stars": 1178
+            "stars": 1177
           }
         },
         {
@@ -6168,7 +6168,7 @@
             "archived": false,
             "id": 296142904,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T16:31:42Z",
+            "last_commit": "2026-08-24T20:16:33Z",
             "owner": "KStateMachine",
             "repo": "kstatemachine",
             "stars": 509
@@ -6333,7 +6333,7 @@
             "archived": false,
             "id": 628167080,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T13:56:17Z",
+            "last_commit": "2026-08-25T01:47:08Z",
             "owner": "Ahoo-Wang",
             "repo": "Wow",
             "stars": 303
@@ -6486,7 +6486,7 @@
             "last_commit": "2026-07-15T04:22:01Z",
             "owner": "mvysny",
             "repo": "vaadin-on-kotlin",
-            "stars": 193
+            "stars": 192
           }
         },
         {
@@ -6873,10 +6873,10 @@
             "archived": false,
             "id": 1136514018,
             "language": "Kotlin",
-            "last_commit": "2026-08-11T19:16:19Z",
+            "last_commit": "2026-08-24T19:49:06Z",
             "owner": "anschnapp",
             "repo": "mutflow",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -7074,10 +7074,10 @@
             "archived": false,
             "id": 67702184,
             "language": "Kotlin",
-            "last_commit": "2026-08-23T21:46:25Z",
+            "last_commit": "2026-08-24T18:49:40Z",
             "owner": "topjohnwu",
             "repo": "Magisk",
-            "stars": 62407
+            "stars": 62411
           }
         },
         {
@@ -7107,7 +7107,7 @@
             "last_commit": "2026-07-21T12:59:15Z",
             "owner": "iSoron",
             "repo": "uhabits",
-            "stars": 10159
+            "stars": 10161
           }
         },
         {
@@ -7122,7 +7122,7 @@
             "last_commit": "2026-08-24T04:56:16Z",
             "owner": "skydoves",
             "repo": "Pokedex",
-            "stars": 8352
+            "stars": 8353
           }
         },
         {
@@ -7137,7 +7137,7 @@
             "last_commit": "2026-08-23T10:43:34Z",
             "owner": "Kunzisoft",
             "repo": "KeePassDX",
-            "stars": 7171
+            "stars": 7175
           }
         },
         {
@@ -7197,7 +7197,7 @@
             "last_commit": "2026-08-21T20:50:49Z",
             "owner": "VREMSoftwareDevelopment",
             "repo": "WiFiAnalyzer",
-            "stars": 4918
+            "stars": 4919
           }
         },
         {
@@ -7209,7 +7209,7 @@
             "archived": false,
             "id": 78869127,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T13:59:11Z",
+            "last_commit": "2026-08-24T23:49:13Z",
             "owner": "duckduckgo",
             "repo": "Android",
             "stars": 4796
@@ -7284,7 +7284,7 @@
             "archived": false,
             "id": 9306568,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T10:52:56Z",
+            "last_commit": "2026-08-24T22:18:00Z",
             "owner": "wordpress-mobile",
             "repo": "WordPress-Android",
             "stars": 3150
@@ -7542,7 +7542,7 @@
             "last_commit": "2020-06-26T11:18:04Z",
             "owner": "ukhsa-collaboration",
             "repo": "COVID-19-app-Android-BETA",
-            "stars": 767
+            "stars": 766
           }
         },
         {
@@ -7605,10 +7605,10 @@
             "archived": false,
             "id": 51148780,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T07:34:23Z",
+            "last_commit": "2026-08-24T19:34:10Z",
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45801
+            "stars": 45802
           }
         },
         {
@@ -7623,7 +7623,7 @@
             "last_commit": "2026-08-21T10:08:21Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23399
+            "stars": 23402
           }
         },
         {
@@ -7743,7 +7743,7 @@
             "last_commit": "2025-09-04T22:43:30Z",
             "owner": "vinaygaba",
             "repo": "Learn-Jetpack-Compose-By-Example",
-            "stars": 3450
+            "stars": 3451
           }
         },
         {
@@ -7758,7 +7758,7 @@
             "last_commit": "2024-01-22T15:22:27Z",
             "owner": "Kotlin",
             "repo": "kotlin-examples",
-            "stars": 3214
+            "stars": 3213
           }
         },
         {
@@ -7773,7 +7773,7 @@
             "last_commit": "2024-01-22T15:22:27Z",
             "owner": "Kotlin",
             "repo": "kotlin-examples",
-            "stars": 3214
+            "stars": 3213
           }
         },
         {
@@ -7785,10 +7785,10 @@
             "archived": false,
             "id": 22558387,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T05:41:15Z",
+            "last_commit": "2026-08-24T14:57:25Z",
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3091
+            "stars": 3093
           }
         },
         {
@@ -7908,7 +7908,7 @@
             "last_commit": "2023-06-22T16:51:34Z",
             "owner": "google-developer-training",
             "repo": "android-kotlin-fundamentals-apps",
-            "stars": 1732
+            "stars": 1730
           }
         },
         {
@@ -8301,7 +8301,7 @@
             "archived": false,
             "id": 71729669,
             "language": "MDX",
-            "last_commit": "2026-08-24T09:47:32Z",
+            "last_commit": "2026-08-25T01:17:55Z",
             "owner": "detekt",
             "repo": "detekt",
             "stars": 7031
@@ -8316,10 +8316,10 @@
             "archived": false,
             "id": 21763603,
             "language": "Kotlin",
-            "last_commit": "2026-08-21T12:26:19Z",
+            "last_commit": "2026-08-24T14:57:56Z",
             "owner": "Kotlin",
             "repo": "dokka",
-            "stars": 3803
+            "stars": 3804
           }
         },
         {
@@ -8468,7 +8468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:49.150Z",
+    "last_updated": "2026-08-25T01:50:39.612Z",
     "original_repository": "mcxiaoke/awesome-kotlin",
     "original_repository_id": 50847517,
     "original_repository_sha": "dc9bdd9497acb295f4d6eaeb9436f6c59ea49586",
