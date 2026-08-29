@@ -94,7 +94,7 @@
             "id": 34824499,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:00:36Z",
+            "last_commit": "2026-08-29T05:57:30Z",
             "open_issues": 131,
             "owner": "square",
             "repo": "leakcanary",
@@ -130,7 +130,7 @@
             "open_issues": 548,
             "owner": "RikkaApps",
             "repo": "Shizuku",
-            "stars": 29474,
+            "stars": 29477,
             "topics": []
           },
           "first_seen": "2026-08-28T11:20:24.123Z"
@@ -549,7 +549,7 @@
             "open_issues": 151,
             "owner": "yairm210",
             "repo": "Unciv",
-            "stars": 11156,
+            "stars": 11170,
             "topics": [
               "4x",
               "4x-strategy-game",
@@ -577,8 +577,8 @@
             "id": 11495787,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T19:46:51Z",
-            "open_issues": 62,
+            "last_commit": "2026-08-29T04:59:14Z",
+            "open_issues": 63,
             "owner": "JakeWharton",
             "repo": "timber",
             "stars": 10847,
@@ -630,7 +630,7 @@
             "open_issues": 9,
             "owner": "JetBrains",
             "repo": "ideavim",
-            "stars": 10257,
+            "stars": 10256,
             "topics": [
               "ideavim",
               "intellij",
@@ -816,7 +816,7 @@
             "open_issues": 627,
             "owner": "zhanghai",
             "repo": "MaterialFiles",
-            "stars": 8822,
+            "stars": 8823,
             "topics": [
               "android",
               "android-application",
@@ -1197,7 +1197,7 @@
             "open_issues": 21,
             "owner": "gotson",
             "repo": "komga",
-            "stars": 6607,
+            "stars": 6608,
             "topics": [
               "api",
               "comics",
@@ -1257,7 +1257,7 @@
             "open_issues": 24,
             "owner": "Mygod",
             "repo": "VPNHotspot",
-            "stars": 6368,
+            "stars": 6369,
             "topics": [
               "android",
               "hotspot",
@@ -1637,7 +1637,7 @@
             "open_issues": 39,
             "owner": "muzei",
             "repo": "muzei",
-            "stars": 4940,
+            "stars": 4941,
             "topics": []
           },
           "first_seen": "2026-08-28T11:20:24.123Z"
@@ -2194,8 +2194,8 @@
             "id": 196805860,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T06:54:33Z",
-            "open_issues": 13,
+            "last_commit": "2026-08-29T06:59:50Z",
+            "open_issues": 12,
             "owner": "skydoves",
             "repo": "Balloon",
             "stars": 3992,
@@ -2820,10 +2820,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:32:52Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "joreilly",
             "repo": "PeopleInSpace",
-            "stars": 3422,
+            "stars": 3423,
             "topics": [
               "android",
               "compose-desktop",
@@ -6892,8 +6892,8 @@
             "id": 792741661,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-08-28T09:38:59Z",
-            "open_issues": 13,
+            "last_commit": "2026-08-29T05:49:41Z",
+            "open_issues": 15,
             "owner": "composablehorizons",
             "repo": "compose-unstyled",
             "stars": 1215,
@@ -7831,8 +7831,8 @@
             "id": 220592381,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T19:47:02Z",
-            "open_issues": 14,
+            "last_commit": "2026-08-29T05:23:19Z",
+            "open_issues": 15,
             "owner": "JakeWharton",
             "repo": "picnic",
             "stars": 975,
@@ -13118,7 +13118,7 @@
             "open_issues": 38,
             "owner": "topjohnwu",
             "repo": "Magisk",
-            "stars": 62482,
+            "stars": 62481,
             "topics": []
           },
           "first_seen": "2026-08-28T11:20:24.123Z"
@@ -13166,7 +13166,7 @@
             "open_issues": 50,
             "owner": "iSoron",
             "repo": "uhabits",
-            "stars": 10176,
+            "stars": 10178,
             "topics": [
               "android",
               "habit-tracker",
@@ -13227,7 +13227,7 @@
             "open_issues": 556,
             "owner": "Kunzisoft",
             "repo": "KeePassDX",
-            "stars": 7188,
+            "stars": 7190,
             "topics": [
               "android",
               "android-application",
@@ -13329,7 +13329,7 @@
             "open_issues": 0,
             "owner": "mozilla-mobile",
             "repo": "fenix",
-            "stars": 6385,
+            "stars": 6386,
             "topics": [
               "android",
               "browser",
@@ -13355,7 +13355,7 @@
             "open_issues": 9,
             "owner": "VREMSoftwareDevelopment",
             "repo": "WiFiAnalyzer",
-            "stars": 4923,
+            "stars": 4924,
             "topics": [
               "android",
               "gplv3",
@@ -13377,8 +13377,8 @@
             "id": 78869127,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:40:52Z",
-            "open_issues": 166,
+            "last_commit": "2026-08-29T05:24:17Z",
+            "open_issues": 167,
             "owner": "duckduckgo",
             "repo": "Android",
             "stars": 4803,
@@ -13459,7 +13459,7 @@
             "open_issues": 6,
             "owner": "videolan",
             "repo": "vlc-android",
-            "stars": 3955,
+            "stars": 3956,
             "topics": [
               "android",
               "libvlc",
@@ -14084,7 +14084,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:55:16Z",
-            "open_issues": 223,
+            "open_issues": 224,
             "owner": "android",
             "repo": "architecture-samples",
             "stars": 45807,
@@ -14344,7 +14344,7 @@
             "open_issues": 56,
             "owner": "Kotlin",
             "repo": "kotlin-examples",
-            "stars": 3213,
+            "stars": 3214,
             "topics": [
               "gradle",
               "kdoc",
@@ -14370,7 +14370,7 @@
             "open_issues": 56,
             "owner": "Kotlin",
             "repo": "kotlin-examples",
-            "stars": 3213,
+            "stars": 3214,
             "topics": [
               "gradle",
               "kdoc",
@@ -15601,7 +15601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:20:01.622Z",
+    "last_updated": "2026-08-29T07:01:30.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kotlin frameworks, libraries, documents and other resources",
