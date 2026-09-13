@@ -1,6 +1,6 @@
 # Awesome Kotlin with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,211 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,509 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome Kotlin frameworks, libraries, documents and other resources.
 
@@ -18,7 +18,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Website
 
-* [Kotlin GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,397 | 🐛 408 | 🌐 Kotlin | 📅 2026-09-12
+* [Kotlin GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,403 | 🐛 411 | 🌐 Kotlin | 📅 2026-09-13
 * [Kotlin Koans](https://github.com/Kotlin/kotlin-koans) ⚠️ Archived
 * [Kotlin Home](https://kotlinlang.org/)
 * [Kotlin Documents](https://kotlinlang.org/docs/reference/)
@@ -28,90 +28,90 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Libraries
 
-* [p3c](https://github.com/alibaba/p3c) ⭐ 30,847 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06 - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-* [Shizuku](https://github.com/RikkaApps/Shizuku) ⭐ 30,010 | 🐛 584 | 🌐 Kotlin | 📅 2025-06-18 - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+* [p3c](https://github.com/alibaba/p3c) ⭐ 30,848 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06 - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+* [Shizuku](https://github.com/RikkaApps/Shizuku) ⭐ 30,058 | 🐛 588 | 🌐 Kotlin | 📅 2025-06-18 - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 * [leakcanary](https://github.com/square/leakcanary) ⭐ 29,996 | 🐛 133 | 🌐 Kotlin | 📅 2026-08-31 - A memory leak detection library for Android.
 * [material-dialogs](https://github.com/afollestad/material-dialogs) ⚠️ Archived - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
-* [compose-jb](https://github.com/JetBrains/compose-jb) ⭐ 19,352 | 🐛 24 | 🌐 Kotlin | 📅 2026-09-12 - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+* [compose-jb](https://github.com/JetBrains/compose-jb) ⭐ 19,355 | 🐛 24 | 🌐 Kotlin | 📅 2026-09-12 - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 * [flexbox-layout](https://github.com/google/flexbox-layout) ⚠️ Archived - Flexbox for Android
 * [FlexboxLayout](https://github.com/google/flexbox-layout) ⚠️ Archived - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 * [anko](https://github.com/Kotlin/anko) ⚠️ Archived - Pleasant Android application development
 * [Anko](https://github.com/Kotlin/anko) ⚠️ Archived - Anko is a library which makes Android application development faster and easier.
-* [ktor](https://github.com/ktorio/ktor) ⭐ 14,522 | 🐛 178 | 🌐 Kotlin | 📅 2026-09-11 - Framework for quickly creating connected applications in Kotlin with minimal effort
-* [ktor](https://github.com/Kotlin/ktor) ⭐ 14,522 | 🐛 178 | 🌐 Kotlin | 📅 2026-09-11 - Kotlin Web backend framework.
-* [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) ⭐ 13,816 | 🐛 347 | 🌐 Kotlin | 📅 2026-09-11 - Library support for Kotlin coroutines
-* [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) ⭐ 13,816 | 🐛 347 | 🌐 Kotlin | 📅 2026-09-11 - Library support for Kotlin coroutines.
+* [ktor](https://github.com/ktorio/ktor) ⭐ 14,526 | 🐛 178 | 🌐 Kotlin | 📅 2026-09-12 - Framework for quickly creating connected applications in Kotlin with minimal effort
+* [ktor](https://github.com/Kotlin/ktor) ⭐ 14,526 | 🐛 178 | 🌐 Kotlin | 📅 2026-09-12 - Kotlin Web backend framework.
+* [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) ⭐ 13,815 | 🐛 347 | 🌐 Kotlin | 📅 2026-09-11 - Library support for Kotlin coroutines
+* [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) ⭐ 13,815 | 🐛 347 | 🌐 Kotlin | 📅 2026-09-11 - Library support for Kotlin coroutines.
 * [coil](https://github.com/coil-kt/coil) ⭐ 11,897 | 🐛 73 | 🌐 Kotlin | 📅 2026-09-11 - Image loading for Android backed by Kotlin Coroutines.
 * [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) ⭐ 11,848 | 🐛 42 | 🌐 Kotlin | 📅 2026-09-08 - :electric\_plug:Translation plugin for IntelliJ based IDEs/Android Studio
-* [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) ⭐ 11,643 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-01 - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
+* [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) ⭐ 11,644 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-01 - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
 * [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) ⭐ 11,542 | 🐛 110 | 🌐 Kotlin | 📅 2023-12-30 - An Android Animation library which easily add itemanimator to RecyclerView items.
-* [Unciv](https://github.com/yairm210/Unciv) ⭐ 11,263 | 🐛 141 | 🌐 Kotlin | 📅 2026-09-11 - Open-source Android/Desktop remake of Civ V
+* [Unciv](https://github.com/yairm210/Unciv) ⭐ 11,263 | 🐛 144 | 🌐 Kotlin | 📅 2026-09-11 - Open-source Android/Desktop remake of Civ V
 * [timber](https://github.com/JakeWharton/timber) ⭐ 10,848 | 🐛 62 | 🌐 Kotlin | 📅 2026-09-11 - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 * [AppIntro](https://github.com/AppIntro/AppIntro) ⭐ 10,569 | 🐛 41 | 🌐 Kotlin | 📅 2026-09-11 - Make a cool intro for your Android app.
-* [ideavim](https://github.com/JetBrains/ideavim) ⭐ 10,264 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-11 - Vim emulation plugin for IDEs based on the IntelliJ Platform
-* [koin](https://github.com/InsertKoinIO/koin) ⭐ 10,021 | 🐛 72 | 🌐 Kotlin | 📅 2026-06-15 - Koin - a pragmatic lightweight dependency injection framework for Kotlin
-* [koin](https://github.com/InsertKoinIO/koin) ⭐ 10,021 | 🐛 72 | 🌐 Kotlin | 📅 2026-06-15 - A pragmatic lightweight dependency injection framework for Kotlin developers. Written in pure Kotlin, using functional resolution only: no proxy, no code generation, no reflection.
+* [ideavim](https://github.com/JetBrains/ideavim) ⭐ 10,266 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-12 - Vim emulation plugin for IDEs based on the IntelliJ Platform
+* [koin](https://github.com/InsertKoinIO/koin) ⭐ 10,021 | 🐛 73 | 🌐 Kotlin | 📅 2026-06-15 - Koin - a pragmatic lightweight dependency injection framework for Kotlin
+* [koin](https://github.com/InsertKoinIO/koin) ⭐ 10,021 | 🐛 73 | 🌐 Kotlin | 📅 2026-06-15 - A pragmatic lightweight dependency injection framework for Kotlin developers. Written in pure Kotlin, using functional resolution only: no proxy, no code generation, no reflection.
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived - RxJava binding APIs for Android's UI widgets.
 * [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,287 | 🐛 173 | 🌐 Kotlin | 📅 2026-09-11 - Kotlin SQL Framework
 * [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,287 | 🐛 173 | 🌐 Kotlin | 📅 2026-09-11 - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language.
 * [okio](https://github.com/square/okio) ⭐ 9,042 | 🐛 103 | 🌐 Kotlin | 📅 2026-09-11 - A modern I/O library for Android, Kotlin, and Java.
-* [MaterialFiles](https://github.com/zhanghai/MaterialFiles) ⭐ 8,906 | 🐛 628 | 🌐 Kotlin | 📅 2026-04-06 - Material Design file manager for Android
-* [javalin](https://github.com/tipsy/javalin) ⭐ 8,348 | 🐛 20 | 🌐 Kotlin | 📅 2026-09-04 - A simple and modern Java and Kotlin web framework
+* [MaterialFiles](https://github.com/zhanghai/MaterialFiles) ⭐ 8,909 | 🐛 628 | 🌐 Kotlin | 📅 2026-04-06 - Material Design file manager for Android
+* [javalin](https://github.com/tipsy/javalin) ⭐ 8,348 | 🐛 22 | 🌐 Kotlin | 📅 2026-09-04 - A simple and modern Java and Kotlin web framework
 * [VancedManager](https://github.com/YTVanced/VancedManager) ⚠️ Archived - Vanced Installer
-* [accompanist](https://github.com/chrisbanes/accompanist) ⭐ 7,832 | 🐛 11 | 🌐 Kotlin | 📅 2025-08-18 - A collection of extension libraries for Jetpack Compose
+* [accompanist](https://github.com/chrisbanes/accompanist) ⭐ 7,833 | 🐛 11 | 🌐 Kotlin | 📅 2025-08-18 - A collection of extension libraries for Jetpack Compose
 * [Compressor](https://github.com/zetbaitsu/Compressor) ⭐ 7,227 | 🐛 140 | 🌐 Kotlin | 📅 2026-03-05 - An android image compression library.
-* [detekt](https://github.com/detekt/detekt) ⭐ 7,050 | 🐛 196 | 🌐 Kotlin | 📅 2026-09-10 - Static code analysis for Kotlin
+* [detekt](https://github.com/detekt/detekt) ⭐ 7,050 | 🐛 199 | 🌐 Kotlin | 📅 2026-09-12 - Static code analysis for Kotlin
 * [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,028 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - RxJava bindings for Kotlin
 * [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,028 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - Kotlin Adaptor for RxJava
 * [kotlin-native](https://github.com/JetBrains/kotlin-native) ⚠️ Archived - Kotlin/Native infrastructure
 * [Kotlin/Native](https://github.com/JetBrains/kotlin-native) ⚠️ Archived - a LLVM backend for the Kotlin compiler
-* [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) ⭐ 6,876 | 🐛 39 | 🌐 Kotlin | 📅 2026-09-09 - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
+* [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) ⭐ 6,875 | 🐛 5 | 🌐 Kotlin | 📅 2026-09-12 - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
 * [sqldelight](https://github.com/cashapp/sqldelight) ⭐ 6,874 | 🐛 368 | 🌐 Kotlin | 📅 2026-09-11 - SQLDelight - Generates typesafe Kotlin APIs from SQL
 * [SQLDelight](https://github.com/square/sqldelight) ⭐ 6,874 | 🐛 368 | 🌐 Kotlin | 📅 2026-09-11 - Generates Java models from CREATE TABLE statements.
 * [ktlint](https://github.com/pinterest/ktlint) ⭐ 6,743 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-11 - An anti-bikeshedding Kotlin linter with built-in formatter
-* [komga](https://github.com/gotson/komga) ⭐ 6,655 | 🐛 25 | 🌐 Kotlin | 📅 2026-09-11 - Media server for comics/mangas/BDs with API and OPDS support
-* [acra](https://github.com/ACRA/acra) ⭐ 6,503 | 🐛 4 | 🌐 Kotlin | 📅 2026-09-12 - Application Crash Reports for Android
-* [VPNHotspot](https://github.com/Mygod/VPNHotspot) ⭐ 6,434 | 🐛 25 | 🌐 Kotlin | 📅 2026-09-04 - Share your VPN connection over hotspot or repeater! (root required)
+* [komga](https://github.com/gotson/komga) ⭐ 6,659 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-11 - Media server for comics/mangas/BDs with API and OPDS support
+* [acra](https://github.com/ACRA/acra) ⭐ 6,503 | 🐛 6 | 🌐 Kotlin | 📅 2026-09-12 - Application Crash Reports for Android
+* [VPNHotspot](https://github.com/Mygod/VPNHotspot) ⭐ 6,433 | 🐛 24 | 🌐 Kotlin | 📅 2026-09-04 - Share your VPN connection over hotspot or repeater! (root required)
 * [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) ⭐ 5,995 | 🐛 5 | 🌐 Kotlin | 📅 2024-06-11 - Design Patterns implemented in Kotlin
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,947 | 🐛 305 | 🌐 Kotlin | 📅 2026-09-11 - Kotlin multiplatform / multi-format serialization
-* [mavericks](https://github.com/airbnb/mavericks) ⭐ 5,930 | 🐛 61 | 🌐 Kotlin | 📅 2026-02-07 - Mavericks: Android on Autopilot
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,948 | 🐛 305 | 🌐 Kotlin | 📅 2026-09-11 - Kotlin multiplatform / multi-format serialization
+* [mavericks](https://github.com/airbnb/mavericks) ⭐ 5,929 | 🐛 61 | 🌐 Kotlin | 📅 2026-02-07 - Mavericks: Android on Autopilot
 * [mockk](https://github.com/mockk/mockk) ⭐ 5,758 | 🐛 299 | 🌐 Kotlin | 📅 2026-09-07 - mocking library for Kotlin
 * [MultiType](https://github.com/drakeet/MultiType) ⭐ 5,757 | 🐛 12 | 🌐 Kotlin | 📅 2022-08-28 - Easier and more flexible to create multiple types for Android RecyclerView.
-* [CalendarView](https://github.com/kizitonwose/CalendarView) ⭐ 5,594 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-13 - A highly customizable calendar library for Android, powered by RecyclerView.
-* [tasks](https://github.com/tasks/tasks) ⭐ 5,554 | 🐛 1,190 | 🌐 Kotlin | 📅 2026-09-11 - Bringing Astrid Tasks back from the dead
-* [Alerter](https://github.com/Tapadoo/Alerter) ⭐ 5,503 | 🐛 49 | 🌐 Kotlin | 📅 2023-07-21 - An Android Alerting Library
-* [Android-Iconics](https://github.com/mikepenz/Android-Iconics) ⭐ 5,275 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-20 - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
+* [CalendarView](https://github.com/kizitonwose/CalendarView) ⭐ 5,595 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-13 - A highly customizable calendar library for Android, powered by RecyclerView.
+* [tasks](https://github.com/tasks/tasks) ⭐ 5,557 | 🐛 1,191 | 🌐 Kotlin | 📅 2026-09-12 - Bringing Astrid Tasks back from the dead
+* [Alerter](https://github.com/Tapadoo/Alerter) ⭐ 5,504 | 🐛 49 | 🌐 Kotlin | 📅 2023-07-21 - An Android Alerting Library
+* [Android-Iconics](https://github.com/mikepenz/Android-Iconics) ⭐ 5,274 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-20 - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
 * [williamchart](https://github.com/diogobernardino/williamchart) ⭐ 5,101 | 🐛 35 | 🌐 Kotlin | 📅 2025-10-04 - Android Library to rapidly develop attractive and insightful charts in android applications.
 * [topeka](https://github.com/android/topeka) ⚠️ Archived - A fun to play quiz that showcases material design on Android
 * [booster](https://github.com/didi/booster) ⭐ 5,070 | 🐛 52 | 🌐 Kotlin | 📅 2026-08-09 - 🚀Optimizer for mobile applications
-* [muzei](https://github.com/muzei/muzei) ⭐ 4,944 | 🐛 39 | 🌐 Kotlin | 📅 2026-09-06 - Muzei Live Wallpaper for Android
+* [muzei](https://github.com/muzei/muzei) ⭐ 4,945 | 🐛 39 | 🌐 Kotlin | 📅 2026-09-13 - Muzei Live Wallpaper for Android
 * [DBFlow](https://github.com/agrosner/DBFlow) ⭐ 4,847 | 🐛 46 | 🌐 Kotlin | 📅 2026-08-23 - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
+* [StreetComplete](https://github.com/streetcomplete/StreetComplete) ⭐ 4,793 | 🐛 136 | 🌐 Kotlin | 📅 2026-09-12 - Easy to use OpenStreetMap editor for Android
 * [kotest](https://github.com/kotest/kotest) ⭐ 4,791 | 🐛 44 | 🌐 Kotlin | 📅 2026-09-11 - Powerful, elegant and flexible test framework for Kotlin
 * [Kotest](https://github.com/kotest/kotest) ⭐ 4,791 | 🐛 44 | 🌐 Kotlin | 📅 2026-09-11 - A kotlin test framework formerly known as Kotlintest
-* [StreetComplete](https://github.com/streetcomplete/StreetComplete) ⭐ 4,788 | 🐛 136 | 🌐 Kotlin | 📅 2026-09-11 - Easy to use OpenStreetMap editor for Android
 * [intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) ⭐ 4,664 | 🐛 4 | 🌐 Kotlin | 📅 2026-06-01 - 🌈Rainbow Brackets / Rainbow Parentheses for IntelliJ based IDEs/Android Studio
 * [fuel](https://github.com/kittinunf/fuel) ⭐ 4,648 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-31 - The easiest HTTP networking library for Kotlin/Android
 * [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,648 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-31 - The easiest HTTP networking library for Kotlin/Android.
 * [qksms](https://github.com/moezbhatti/qksms) ⭐ 4,591 | 🐛 526 | 🌐 Kotlin | 📅 2023-06-02 - The most beautiful SMS messenger for Android
-* [chucker](https://github.com/ChuckerTeam/chucker) ⭐ 4,564 | 🐛 84 | 🌐 Kotlin | 📅 2026-09-10 - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device) - More Chucker than Chuck
+* [chucker](https://github.com/ChuckerTeam/chucker) ⭐ 4,564 | 🐛 86 | 🌐 Kotlin | 📅 2026-09-10 - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device) - More Chucker than Chuck
 * [intellij-rust](https://github.com/intellij-rust/intellij-rust) ⭐ 4,527 | 🐛 1,829 | 🌐 Kotlin | 📅 2024-03-13 - Rust plugin for the IntelliJ Platform
 * [AboutLibraries](https://github.com/mikepenz/AboutLibraries) ⭐ 4,432 | 🐛 5 | 🌐 Kotlin | 📅 2026-09-08 - AboutLibraries is a library to offer some information of libraries.
 * [wire](https://github.com/square/wire) ⭐ 4,428 | 🐛 163 | 🌐 Kotlin | 📅 2026-09-10 - gRPC and protocol buffers for Android, Kotlin, and Java.
 * [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher) ⭐ 4,316 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-26 - GPP is Android's unofficial release automation Gradle Plugin. It can do anything from building, uploading, and then promoting your App Bundle or APK to publishing app listings and other metadata.
-* [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) ⭐ 4,273 | 🐛 7 | 🌐 Shell | 📅 2026-09-04 - Main UserLAnd Repository
-* [kotlinpoet](https://github.com/square/kotlinpoet) ⭐ 4,158 | 🐛 69 | 🌐 Kotlin | 📅 2026-09-11 - A Kotlin API for generating .kt source files.
+* [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) ⭐ 4,274 | 🐛 7 | 🌐 Shell | 📅 2026-09-04 - Main UserLAnd Repository
+* [kotlinpoet](https://github.com/square/kotlinpoet) ⭐ 4,157 | 🐛 69 | 🌐 Kotlin | 📅 2026-09-11 - A Kotlin API for generating .kt source files.
 * [RxDownload](https://github.com/ssseasonnn/RxDownload) ⭐ 4,118 | 🐛 47 | 🌐 Kotlin | 📅 2021-10-28 - A multi-threaded download tool written with RxJava and Kotlin
 * [RxDownload](https://github.com/ssseasonnn/RxDownload) ⭐ 4,118 | 🐛 47 | 🌐 Kotlin | 📅 2021-10-28 - A multi-threaded download tool written with RxJava and Kotlin.
 * [corda](https://github.com/corda/corda) ⭐ 4,076 | 🐛 62 | 🌐 Kotlin | 📅 2026-09-11 - Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
 * [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) ⭐ 4,007 | 🐛 20 | 🌐 Kotlin | 📅 2023-10-30 - null
-* [Balloon](https://github.com/skydoves/Balloon) ⭐ 4,005 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-10 - :balloon: A lightweight popup like tooltips, fully customizable with an arrow and animations.
-* [apkupdater](https://github.com/rumboalla/apkupdater) ⭐ 3,981 | 🐛 24 | 🌐 Kotlin | 📅 2026-05-28 - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
+* [Balloon](https://github.com/skydoves/Balloon) ⭐ 4,005 | 🐛 2 | 🌐 Kotlin | 📅 2026-09-13 - :balloon: A lightweight popup like tooltips, fully customizable with an arrow and animations.
+* [apkupdater](https://github.com/rumboalla/apkupdater) ⭐ 3,987 | 🐛 24 | 🌐 Kotlin | 📅 2026-05-28 - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 * [Timeline-View](https://github.com/vipulasri/Timeline-View) ⭐ 3,887 | 🐛 0 | 🌐 Java | 📅 2025-02-16 - Android Timeline View is used to display views like Tracking of shipment/order, steppers etc.
 * [FastAdapter](https://github.com/mikepenz/FastAdapter) ⭐ 3,880 | 🐛 8 | 🌐 Kotlin | 📅 2026-04-09 - The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction...
-* [android](https://github.com/home-assistant/android) ⭐ 3,878 | 🐛 463 | 🌐 Kotlin | 📅 2026-09-12 - :iphone: Home Assistant Companion for Android
+* [android](https://github.com/home-assistant/android) ⭐ 3,880 | 🐛 466 | 🌐 Kotlin | 📅 2026-09-13 - :iphone: Home Assistant Companion for Android
 * [Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) ⭐ 3,823 | 🐛 6 | 🌐 Kotlin | 📅 2022-09-22 - You can easily add awesome animated context menu to your app.
 * [Fotoapparat](https://github.com/RedApparat/Fotoapparat) ⭐ 3,812 | 🐛 88 | 🌐 Kotlin | 📅 2023-10-26 - Making Camera for Android more friendly. 📸
-* [dokka](https://github.com/Kotlin/dokka) ⭐ 3,806 | 🐛 671 | 🌐 Kotlin | 📅 2026-09-11 - Documentation Engine for Kotlin
+* [dokka](https://github.com/Kotlin/dokka) ⭐ 3,806 | 🐛 672 | 🌐 Kotlin | 📅 2026-09-11 - Documentation Engine for Kotlin
 * [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) ⭐ 3,757 | 🐛 28 | 🌐 Kotlin | 📅 2026-05-04 - Template repository for creating plugins for IntelliJ Platform
 * [element-android](https://github.com/vector-im/element-android) ⭐ 3,728 | 🐛 2,217 | 🌐 Kotlin | 📅 2026-09-10 - A glossy Matrix collaboration client for Android.
 * [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) ⭐ 3,699 | 🐛 254 | 🌐 Kotlin | 📅 2026-06-15 - YouTube Player library for Android and Chromecast, stable and customizable.
@@ -119,13 +119,13 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [Gradle Kotlin DSL](https://github.com/gradle/kotlin-dsl) ⚠️ Archived - Kotlin language support for Gradle build scripts.
 * [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) ⚠️ Archived - An android boilerplate project using clean architecture
 * [Spotlight](https://github.com/TakuSemba/Spotlight) ⭐ 3,669 | 🐛 31 | 🌐 Kotlin | 📅 2022-12-03 - Android Library that lights items for tutorials or walk-throughs etc...
-* [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) ⭐ 3,658 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31 - Community-driven collection of Jetpack Compose example code and tutorials :rocket:  <https://foso.github.io/compose>
-* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,650 | 🐛 306 | 🌐 Kotlin | 📅 2024-06-26 - A simple calendar with events, customizable widgets and no ads.
+* [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) ⭐ 3,656 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31 - Community-driven collection of Jetpack Compose example code and tutorials :rocket:  <https://foso.github.io/compose>
+* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,649 | 🐛 306 | 🌐 Kotlin | 📅 2024-06-26 - A simple calendar with events, customizable widgets and no ads.
 * [tornadofx](https://github.com/edvin/tornadofx) ⚠️ Archived - Lightweight JavaFX Framework for Kotlin
 * [TornadoFX](https://github.com/edvin/tornadofx) ⚠️ Archived - Lightweight JavaFX Framework for Kotlin
 * [dotsindicator](https://github.com/tommybuonomo/dotsindicator) ⭐ 3,605 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-31 - Three material Dots Indicators for view pagers in Android !
-* [mpv-android](https://github.com/mpv-android/mpv-android) ⭐ 3,544 | 🐛 163 | 🌐 Kotlin | 📅 2026-09-11 - #mpv-android @ freenode
-* [PeopleInSpace](https://github.com/joreilly/PeopleInSpace) ⭐ 3,428 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-06 - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
+* [mpv-android](https://github.com/mpv-android/mpv-android) ⭐ 3,546 | 🐛 163 | 🌐 Kotlin | 📅 2026-09-11 - #mpv-android @ freenode
+* [PeopleInSpace](https://github.com/joreilly/PeopleInSpace) ⭐ 3,428 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-12 - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
 * [Store](https://github.com/dropbox/Store) ⭐ 3,417 | 🐛 57 | 🌐 Kotlin | 📅 2026-09-10 - Kotlin Library for Async Data Loading and Caching
 * [dgs-framework](https://github.com/Netflix/dgs-framework) ⭐ 3,390 | 🐛 46 | 🌐 Kotlin | 📅 2026-09-08 - null
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,388 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - Celebrate more with this lightweight confetti particle system 🎊
@@ -133,17 +133,17 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [Scarlet](https://github.com/Tinder/Scarlet) ⭐ 3,255 | 🐛 108 | 🌐 Kotlin | 📅 2025-11-21 - A Retrofit inspired WebSocket client for Kotlin, Java, and Android
 * [JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass) ⭐ 3,178 | 🐛 55 | 🌐 Kotlin | 📅 2025-06-03 - 🚀Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )
 * [mockito-kotlin](https://github.com/mockito/mockito-kotlin) ⭐ 3,161 | 🐛 81 | 🌐 Kotlin | 📅 2026-05-27 - Using Mockito with Kotlin
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,128 | 🐛 127 | 🌐 Kotlin | 📅 2026-09-11 - Minimalistic audiobook player
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,129 | 🐛 128 | 🌐 Kotlin | 📅 2026-09-12 - Minimalistic audiobook player
 * [kotlin-logging](https://github.com/MicroUtils/kotlin-logging) ⭐ 3,110 | 🐛 21 | 🌐 Kotlin | 📅 2026-05-27 - Lightweight logging framework for Kotlin. A convenient and performant logging library wrapping slf4j with Kotlin extensions
 * [kotlin.logging](https://github.com/MicroUtils/kotlin.logging) ⭐ 3,110 | 🐛 21 | 🌐 Kotlin | 📅 2026-05-27 - A logging framework for Kotlin
 * [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) ⭐ 3,072 | 🐛 1 | 🌐 Java | 📅 2025-11-26 - A Gradle plugin to report the number of method references in your APK on every build.
-* [KorGE](https://github.com/korlibs/korge) ⭐ 3,046 | 🐛 244 | 🌐 Kotlin | 📅 2026-09-08 - KorGE Game Engine. Multiplatform Kotlin Game Engine
+* [KorGE](https://github.com/korlibs/korge) ⭐ 3,047 | 🐛 244 | 🌐 Kotlin | 📅 2026-09-08 - KorGE Game Engine. Multiplatform Kotlin Game Engine
 * [clikt](https://github.com/ajalt/clikt) ⭐ 3,002 | 🐛 37 | 🌐 Kotlin | 📅 2026-01-16 - Multiplatform command line interface parsing for Kotlin
-* [jclasslib](https://github.com/ingokegel/jclasslib) ⭐ 2,997 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-31 - jclasslib bytecode viewer is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.
+* [jclasslib](https://github.com/ingokegel/jclasslib) ⭐ 2,996 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-31 - jclasslib bytecode viewer is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.
 * [turbine](https://github.com/cashapp/turbine) ⭐ 2,856 | 🐛 17 | 🌐 Kotlin | 📅 2026-09-10 - A small testing library for kotlinx.coroutines Flow
 * [android-upload-service](https://github.com/gotev/android-upload-service) ⭐ 2,855 | 🐛 3 | 🌐 Kotlin | 📅 2025-01-18 - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 * [kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime) ⭐ 2,827 | 🐛 33 | 🌐 Kotlin | 📅 2026-09-11 - KotlinX multiplatform date/time library
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,786 | 🐛 45 | 🌐 Kotlin | 📅 2026-09-09 - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,787 | 🐛 45 | 🌐 Kotlin | 📅 2026-09-12 - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 * [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) ⭐ 2,753 | 🐛 19 | 🌐 Kotlin | 📅 2026-09-11 - Adds touch functionality to Android ImageView.
 * [Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker) ⭐ 2,701 | 🐛 93 | 🌐 Kotlin | 📅 2023-08-27 - Photopicker and document picker for android
 * [TourGuide](https://github.com/worker8/TourGuide) ⭐ 2,609 | 🐛 82 | 🌐 Kotlin | 📅 2022-04-20 - TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View
@@ -153,11 +153,11 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [MVVM-Kotlin-Android-Architecture](https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture) ⭐ 2,581 | 🐛 21 | 🌐 Kotlin | 📅 2026-06-01 - MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit5
 * [Tusky](https://github.com/tuskyapp/Tusky) ⚠️ Archived - An Android client for the microblogging server Mastodon
 * [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) ⭐ 2,562 | 🐛 8 | 🌐 Kotlin | 📅 2021-02-17 - Library containing common animations needed for transforming ViewPager scrolling for Android v13+.
-* [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ⭐ 2,528 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-11 - Screen Stream over HTTP mobile app
+* [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) ⭐ 2,528 | 🐛 25 | 🌐 Kotlin | 📅 2026-09-12 - Screen Stream over HTTP mobile app
 * [MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) ⭐ 2,492 | 🐛 6 | 🌐 Kotlin | 📅 2021-03-19 - Android library for multiple snapping of RecyclerView
 * [KaMPKit](https://github.com/touchlab/KaMPKit) ⭐ 2,452 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-01 - KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.
 * [android-modular-architecture](https://github.com/VMadalin/android-modular-architecture) ⭐ 2,436 | 🐛 5 | 🌐 Kotlin | 📅 2021-08-23 - 📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,430 | 🐛 351 | 🌐 Kotlin | 📅 2026-09-09 - A lightweight Android browser with modern navigation
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,431 | 🐛 353 | 🌐 Kotlin | 📅 2026-09-13 - A lightweight Android browser with modern navigation
 * [TransformationLayout](https://github.com/skydoves/TransformationLayout) ⭐ 2,427 | 🐛 7 | 🌐 Kotlin | 📅 2026-01-03 - 🌠 Transform into a different view or activity using morphing animations.
 * [gradle-recipes](https://github.com/android/gradle-recipes) ⭐ 2,365 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-10 - Ready-to-use recipes for common build customizations that showcase the Android Gradle plugin's public APIs and DSL.
 * [ktorm](https://github.com/kotlin-orm/ktorm) ⭐ 2,345 | 🐛 103 | 🌐 Kotlin | 📅 2026-06-20 - A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.
@@ -180,7 +180,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [kotlin-language-server](https://github.com/fwcd/kotlin-language-server) ⭐ 2,043 | 🐛 227 | 🌐 Kotlin | 📅 2025-06-02 - Intelligent Kotlin support for any editor/IDE using the Language Server Protocol
 * [StfalconImageViewer](https://github.com/stfalcon-studio/StfalconImageViewer) ⭐ 2,025 | 🐛 56 | 🌐 Kotlin | 📅 2024-05-03 - A simple and customizable Android full-screen image viewer with shared image transition support, "pinch to zoom" and "swipe to dismiss" gestures
 * [KotlinUdemy](https://github.com/hussien89aa/KotlinUdemy) ⭐ 2,019 | 🐛 14 | 🌐 Kotlin | 📅 2021-03-15 - Learn how to make online games, and apps for Android O, like Pokémon , twitter,Tic Tac Toe, and notepad using Kotlin
-* [badge-magic-android](https://github.com/fossasia/badge-magic-android) ⭐ 2,015 | 🐛 50 | 🌐 Dart | 📅 2026-09-11 - Badge Magic with LEDs - Android App <https://play.google.com/apps/testing/org.fossasia.badgemagic>
+* [badge-magic-android](https://github.com/fossasia/badge-magic-android) ⭐ 2,015 | 🐛 51 | 🌐 Dart | 📅 2026-09-13 - Badge Magic with LEDs - Android App <https://play.google.com/apps/testing/org.fossasia.badgemagic>
 * [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView) ⭐ 2,000 | 🐛 8 | 🌐 Kotlin | 📅 2025-11-15 - An easy-to-use customisable show case view with circular reveal animation.
 * [android-components](https://github.com/mozilla-mobile/android-components) ⚠️ Archived - A collection of Android libraries to build browsers or browser-like applications.
 * [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview) ⚠️ Archived - 👇 Easy Google Photos style multi-selection for RecyclerViews, powered by Kotlin and AndroidX.
@@ -191,8 +191,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [LoadingButtonAndroid](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid) ⭐ 1,957 | 🐛 58 | 🌐 Kotlin | 📅 2025-02-13 - A button to substitute the ProgressDialog
 * [awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) ⭐ 1,940 | 🐛 11 | 🌐 Kotlin | 📅 2024-05-11 - 👓 A curated list of awesome android learning resources for android app developers.
 * [Kaspresso](https://github.com/KasperskyLab/Kaspresso) ⭐ 1,924 | 🐛 52 | 🌐 Kotlin | 📅 2026-07-16 - Great UI test framework
-* [AwesomeQRCode](https://github.com/SumiMakito/AwesomeQRCode) ⭐ 1,912 | 🐛 21 | 🌐 Kotlin | 📅 2023-12-02 - An awesome QR code generator for Android.
-* [kotlin-android-template](https://github.com/cortinico/kotlin-android-template) ⭐ 1,910 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-09 - Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️
+* [AwesomeQRCode](https://github.com/SumiMakito/AwesomeQRCode) ⭐ 1,913 | 🐛 21 | 🌐 Kotlin | 📅 2023-12-02 - An awesome QR code generator for Android.
+* [kotlin-android-template](https://github.com/cortinico/kotlin-android-template) ⭐ 1,911 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-09 - Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️
 * [paris](https://github.com/airbnb/paris) ⭐ 1,908 | 🐛 54 | 🌐 Kotlin | 📅 2025-11-03 - Define and apply styles to Android views programmatically
 * [VDM](https://github.com/ingbyr/VDM) ⚠️ Archived - GUI for command-line video downloader (youtube-dl annie)
 * [WechatMagician](https://github.com/Gh0u1L5/WechatMagician) ⭐ 1,893 | 🐛 54 | 🌐 Kotlin | 📅 2018-05-23 - WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.
@@ -205,22 +205,22 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [turbo-intruder](https://github.com/PortSwigger/turbo-intruder) ⭐ 1,808 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-13 - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
 * [CircularProgressBar](https://github.com/lopspower/CircularProgressBar) ⭐ 1,806 | 🐛 26 | 🌐 Kotlin | 📅 2023-04-17 - Create circular ProgressBar in Android ⭕
 * [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) ⭐ 1,803 | 🐛 83 | 🌐 Kotlin | 📅 2026-08-31 - Libraries for running GraphQL in Kotlin
-* [MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,789 | 🐛 228 | 🌐 Kotlin | 📅 2026-09-09 - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
+* [MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,790 | 🐛 229 | 🌐 Kotlin | 📅 2026-09-09 - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
 * [EasyImage](https://github.com/jkwiecien/EasyImage) ⭐ 1,786 | 🐛 91 | 🌐 Kotlin | 📅 2023-03-29 - Library for picking pictures from gallery or camera
-* [kotlinx.html](https://github.com/Kotlin/kotlinx.html) ⭐ 1,750 | 🐛 85 | 🌐 Kotlin | 📅 2026-08-11 - Kotlin DSL for HTML
+* [kotlinx.html](https://github.com/Kotlin/kotlinx.html) ⭐ 1,751 | 🐛 85 | 🌐 Kotlin | 📅 2026-08-11 - Kotlin DSL for HTML
 * [KeyboardVisibilityEvent](https://github.com/yshrsmz/KeyboardVisibilityEvent) ⭐ 1,740 | 🐛 8 | 🌐 Kotlin | 📅 2021-09-29 - Android Library to handle software keyboard visibility change event.
 * [Flashbar](https://github.com/aritraroy/Flashbar) ⭐ 1,735 | 🐛 37 | 🌐 Kotlin | 📅 2021-11-10 - ⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
-* [orbit](https://github.com/orbit/orbit) ⭐ 1,728 | 🐛 4 | 🌐 Kotlin | 📅 2021-06-15 - Orbit - Virtual actor framework for building distributed systems
-* [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) ⭐ 1,727 | 🐛 116 | 🌐 Kotlin | 📅 2026-09-09 - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web.
+* [orbit](https://github.com/orbit/orbit) ⭐ 1,729 | 🐛 4 | 🌐 Kotlin | 📅 2021-06-15 - Orbit - Virtual actor framework for building distributed systems
+* [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) ⭐ 1,728 | 🐛 116 | 🌐 Kotlin | 📅 2026-09-09 - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web.
 * [ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) ⭐ 1,716 | 🐛 123 | 🌐 Kotlin | 📅 2026-08-09 - A ktlint gradle plugin
 * [refreshVersions](https://github.com/jmfayard/refreshVersions) ⭐ 1,711 | 🐛 129 | 🌐 Kotlin | 📅 2025-08-16 - Life is too short to google for dependencies and versions
 * [Barista](https://github.com/AdevintaSpain/Barista) ⭐ 1,690 | 🐛 58 | 🌐 Kotlin | 📅 2024-07-03 - :coffee: The one who serves a great Espresso
-* [jasync-sql](https://github.com/jasync-sql/jasync-sql) ⭐ 1,689 | 🐛 18 | 🌐 Kotlin | 📅 2026-01-15 - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
+* [jasync-sql](https://github.com/jasync-sql/jasync-sql) ⭐ 1,688 | 🐛 18 | 🌐 Kotlin | 📅 2026-01-15 - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
 * [FabFilter](https://github.com/nikhilpanju/FabFilter) ⭐ 1,687 | 🐛 8 | 🌐 Kotlin | 📅 2022-03-01 - Android app to showcase complex UI/Animations with and without MotionLayout
 * [android-startup](https://github.com/idisfkj/android-startup) ⭐ 1,671 | 🐛 4 | 🌐 Kotlin | 📅 2022-02-09 - 🔥The Android Startup library provides a straightforward, performant way to initialize components at the application startup. .
 * [SearchFilter](https://github.com/Yalantis/SearchFilter) ⭐ 1,662 | 🐛 20 | 🌐 Kotlin | 📅 2022-09-22 - Implementing Search Filter Animation in Kotlin for Quora Meets LinkedIn, Our App Design Concept
 * [gradle-dependency-graph-generator-plugin](https://github.com/vanniktech/gradle-dependency-graph-generator-plugin) ⭐ 1,628 | 🐛 23 | 🌐 Kotlin | 📅 2026-09-07 - Gradle plugin that generates dependency graphs from your project.
-* [ktor-samples](https://github.com/ktorio/ktor-samples) ⭐ 1,616 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-26 - Sample projects for Ktor
+* [ktor-samples](https://github.com/ktorio/ktor-samples) ⭐ 1,616 | 🐛 14 | 🌐 Kotlin | 📅 2026-09-13 - Sample projects for Ktor
 * [kotlin-wrappers](https://github.com/JetBrains/kotlin-wrappers) ⭐ 1,597 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-11 - Kotlin wrappers for popular JavaScript libraries
 * [create-android-kotlin-app](https://github.com/nekocode/create-android-kotlin-app) ⭐ 1,585 | 🐛 2 | 🌐 Kotlin | 📅 2021-02-05 - Create kotlin android project with one line of command.
 * [Android-Indefinite-Pager-Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator) ⭐ 1,585 | 🐛 8 | 🌐 Kotlin | 📅 2023-05-23 - A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
@@ -233,7 +233,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [AndroidVeil](https://github.com/skydoves/AndroidVeil) ⭐ 1,567 | 🐛 12 | 🌐 Kotlin | 📅 2025-10-15 - :performing\_arts: An easy, flexible way to implement veil skeletons and shimmering effect for Android.
 * [android-target-tooltip](https://github.com/sephiroth74/android-target-tooltip) ⭐ 1,549 | 🐛 87 | 🌐 Kotlin | 📅 2023-10-19 - Create Toast like tooltips, but targets can be specified, plus custom properties and features
 * [TimberX](https://github.com/naman14/TimberX) ⭐ 1,541 | 🐛 55 | 🌐 Kotlin | 📅 2022-10-29 - Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding)
-* [stripe-android](https://github.com/stripe/stripe-android) ⭐ 1,536 | 🐛 173 | 🌐 Kotlin | 📅 2026-09-11 - Stripe Android SDK
+* [stripe-android](https://github.com/stripe/stripe-android) ⭐ 1,535 | 🐛 177 | 🌐 Kotlin | 📅 2026-09-12 - Stripe Android SDK
 * [MotionToast](https://github.com/Spikeysanju/MotionToast) ⭐ 1,534 | 🐛 32 | 🌐 Kotlin | 📅 2024-04-29 - 🌈 A Beautiful Motion Toast Library for Kotlin Android
 * [contour](https://github.com/cashapp/contour) ⚠️ Archived - Layouts with lambdas 😎
 * [FragNav](https://github.com/ncapdevi/FragNav) ⭐ 1,496 | 🐛 37 | 🌐 Kotlin | 📅 2022-04-05 - An Android library for managing multiple stacks of fragments
@@ -244,16 +244,16 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [MeowBottomNavigation](https://github.com/oneHamidreza/MeowBottomNavigation) ⭐ 1,438 | 🐛 45 | 🌐 Kotlin | 📅 2023-10-06 - Android Meow Bottm Navigation
 * [fluid-slider-android](https://github.com/Ramotion/fluid-slider-android) ⭐ 1,417 | 🐛 5 | 🌐 Kotlin | 📅 2020-07-09 - :octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Android library made by @Ramotion
 * [anvil](https://github.com/square/anvil) ⭐ 1,402 | 🐛 55 | 🌐 Kotlin | 📅 2026-08-18 - A Kotlin compiler plugin to make dependency injection with Dagger 2 easier.
-* [Bubble-Picker](https://github.com/igalata/Bubble-Picker) ⚠️ Archived - An easy-to-use animation which can be used for content picking for Android
 * [Simple-Music-Player](https://github.com/SimpleMobileTools/Simple-Music-Player) ⭐ 1,394 | 🐛 74 | 🌐 Kotlin | 📅 2024-06-11 - A clean music player with a customizable widget, stylish interface and no ads.
+* [Bubble-Picker](https://github.com/igalata/Bubble-Picker) ⚠️ Archived - An easy-to-use animation which can be used for content picking for Android
 * [Bubble-Picker](https://github.com/igalata/Bubble-Picker) ⚠️ Archived - An easy-to-use animation which can be used for content picking for Android
 * [Multi-Selection](https://github.com/Yalantis/Multi-Selection) ⭐ 1,369 | 🐛 4 | 🌐 Kotlin | 📅 2022-09-22 - Multiselection Solution for Android in Kotlin
 * [libaums](https://github.com/magnusja/libaums) ⭐ 1,363 | 🐛 60 | 🌐 Kotlin | 📅 2026-08-09 - Open source library to access USB Mass Storage devices on Android without rooting your device
-* [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) ⭐ 1,361 | 🐛 1 | 🌐 Kotlin | 📅 2026-02-19 - An OkHttp interceptor which has pretty logger for request and response. +Mock support
+* [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) ⭐ 1,362 | 🐛 1 | 🌐 Kotlin | 📅 2026-02-19 - An OkHttp interceptor which has pretty logger for request and response. +Mock support
 * [shadow](https://github.com/loopeer/shadow) ⭐ 1,358 | 🐛 23 | 🌐 Kotlin | 📅 2022-07-29 - Deprecated because of the performance not fine. Android custom shadow view, can replace your CardView
 * [shadow](https://github.com/loopeer/shadow) ⭐ 1,358 | 🐛 23 | 🌐 Kotlin | 📅 2022-07-29 - Android custom shadow view, can replace your CardView.
 * [SpeedView](https://github.com/anastr/SpeedView) ⭐ 1,353 | 🐛 18 | 🌐 Kotlin | 📅 2024-01-07 - Dynamic Speedometer and Gauge for Android. amazing, powerful, and multi shape :zap:
-* [kvision](https://github.com/rjaros/kvision) ⭐ 1,349 | 🐛 18 | 🌐 Kotlin | 📅 2026-08-19 - Object oriented web framework for Kotlin/JS
+* [kvision](https://github.com/rjaros/kvision) ⭐ 1,349 | 🐛 17 | 🌐 Kotlin | 📅 2026-09-12 - Object oriented web framework for Kotlin/JS
 * [materialChipView](https://github.com/robertlevonyan/materialChipView) ⚠️ Archived - Material Chip view. Can be used as tags for categories, contacts or creating text clouds
 * [Switcher](https://github.com/bitvale/Switcher) ⭐ 1,335 | 🐛 2 | 🌐 Kotlin | 📅 2022-01-03 - Android implementation of switch animation from Oleg Frolov
 * [AceJump](https://github.com/acejump/AceJump) ⭐ 1,330 | 🐛 38 | 🌐 Kotlin | 📅 2025-06-27 - 🅰️ single character search, select, and jump
@@ -265,15 +265,15 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [ReadableBottomBar](https://github.com/iammert/ReadableBottomBar) ⭐ 1,259 | 🐛 16 | 🌐 Kotlin | 📅 2021-11-09 - Yet another material bottom bar library for Android
 * [kotlin-result](https://github.com/michaelbull/kotlin-result) ⭐ 1,257 | 🐛 2 | 🌐 Kotlin | 📅 2026-07-04 - A Result monad for modelling success or failure operations, inspired by Rust, Elm, Haskell & Scala.
 * [bugsnag-android](https://github.com/bugsnag/bugsnag-android) ⭐ 1,241 | 🐛 23 | 🌐 Kotlin | 📅 2026-08-25 - Bugsnag crash monitoring and reporting tool for Android apps
+* [compose-menu](https://github.com/composablehorizons/compose-menu/) ⭐ 1,226 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-13 – An unstyled Menu (Dropdown) Compose Multiplatform component with keyboard navigation and animation support.
 * [slidetoact](https://github.com/cortinico/slidetoact) ⭐ 1,225 | 🐛 46 | 🌐 Kotlin | 📅 2026-09-07 - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin 📱🎨🦄
-* [compose-menu](https://github.com/composablehorizons/compose-menu/) ⭐ 1,225 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-30 – An unstyled Menu (Dropdown) Compose Multiplatform component with keyboard navigation and animation support.
 * [MultiSearchView](https://github.com/iammert/MultiSearchView) ⭐ 1,223 | 🐛 11 | 🌐 Kotlin | 📅 2021-05-15 - Yet another built-in animated search view for Android.
 * [input-mask-android](https://github.com/RedMadRobot/input-mask-android) ⭐ 1,220 | 🐛 12 | 🌐 Kotlin | 📅 2023-12-02 - User input masking library repo.
 * [MultiStateView](https://github.com/Kennyc1012/MultiStateView) ⭐ 1,215 | 🐛 3 | 🌐 Kotlin | 📅 2021-02-13 - Android View that displays different content based on its state
 * [Reaktive](https://github.com/badoo/Reaktive) ⭐ 1,215 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-08 - Kotlin multi-platform implementation of Reactive Extensions
 * [toolargetool](https://github.com/guardian/toolargetool) ⭐ 1,214 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-02 - A tool to help you debug TransactionTooLargeExceptions on Android 7
 * [Shot](https://github.com/Karumi/Shot) ⭐ 1,207 | 🐛 63 | 🌐 Kotlin | 📅 2026-01-16 - Gradle plugin developed to facilitate screenshot testing for Android
-* [McImage](https://github.com/smallSohoSolo/McImage) ⭐ 1,202 | 🐛 9 | 🌐 Kotlin | 📅 2021-08-31 - Android Gradle Plugin  -- Auto Check big image and compress image in building.
+* [McImage](https://github.com/smallSohoSolo/McImage) ⭐ 1,203 | 🐛 9 | 🌐 Kotlin | 📅 2021-08-31 - Android Gradle Plugin  -- Auto Check big image and compress image in building.
 * [CircleMenu](https://github.com/ImangazalievM/CircleMenu) ⭐ 1,195 | 🐛 7 | 🌐 Kotlin | 📅 2024-06-14 - CircleMenu is a simple, elegant menu with a circular layout.
 * [jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) ⭐ 1,186 | 🐛 45 | 🌐 Kotlin | 📅 2026-09-04 - Module that adds support for serialization/deserialization of Kotlin (<http://kotlinlang.org>) classes and data classes.
 * [jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) ⭐ 1,186 | 🐛 45 | 🌐 Kotlin | 📅 2026-09-04 - Module that adds support for serialization/deserialization of Kotlin classes and data classes.
@@ -308,7 +308,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [android-clean-architecture-mvi-boilerplate](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate) ⭐ 971 | 🐛 3 | 🌐 Kotlin | 📅 2020-07-20 - A fork of our clean architecture boilerplate using the Model-View-Intent pattern
 * [material-cab](https://github.com/afollestad/material-cab) ⚠️ Archived - 🚕 An Android & Kotlin library for placing and manipulating Contextual Action Bars in your UI.
 * [Glance](https://github.com/guolindev/Glance) ⭐ 968 | 🐛 9 | 🌐 Kotlin | 📅 2022-10-05 - A simple and handy Android database debugging library.
-* [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) ⭐ 967 | 🐛 2 | 🌐 Kotlin | 📅 2021-04-08 - Playground project for the Jetpack Compose APIs
+* [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) ⭐ 966 | 🐛 2 | 🌐 Kotlin | 📅 2021-04-08 - Playground project for the Jetpack Compose APIs
 * [kweb-core](https://github.com/kwebio/kweb-core) ⚠️ Archived - A lightweight Kotlin web framework for backend developers 🦆
 * [deep-clean](https://github.com/rock3r/deep-clean) ⭐ 963 | 🐛 3 | 🌐 Kotlin | 📅 2026-02-05 - When Gradle or the IDE let you down, just --nuke all them caches
 * [Flym](https://github.com/FredJul/Flym) ⚠️ Archived - Flym News Reader is a light Android feed reader (RSS/Atom)
@@ -375,7 +375,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [SnapTabLayout](https://github.com/nirukk52/SnapTabLayout) ⭐ 761 | 🐛 3 | 🌐 Kotlin | 📅 2022-07-20 - Android library for fluid tablayout animation as seen on Snapchat.
 * [GuideToCustomViews](https://github.com/ZieIony/GuideToCustomViews) ⭐ 759 | 🐛 0 | 🌐 Kotlin | 📅 2021-09-15 - The ultimate guide to Android custom views
 * [kotlin-csv](https://github.com/doyaaaaaken/kotlin-csv) ⭐ 749 | 🐛 5 | 🌐 Kotlin | 📅 2026-06-12 - Pure Kotlin CSV Reader/Writer
-* [ChangeDetection](https://github.com/bernaferrari/ChangeDetection) ⭐ 742 | 🐛 29 | 🌐 Kotlin | 📅 2024-04-27 - Automatically track websites changes on Android in background.
+* [ChangeDetection](https://github.com/bernaferrari/ChangeDetection) ⭐ 742 | 🐛 30 | 🌐 Kotlin | 📅 2024-04-27 - Automatically track websites changes on Android in background.
 * [creative-viewpager](https://github.com/tommybuonomo/creative-viewpager) ⭐ 735 | 🐛 8 | 🌐 Kotlin | 📅 2018-06-20 - Creative View Pager easy to use in Android
 * [multik](https://github.com/Kotlin/multik) ⭐ 734 | 🐛 68 | 🌐 Kotlin | 📅 2026-09-07 - Multidimensional array library for Kotlin
 * [WaitingDots](https://github.com/tajchert/WaitingDots) ⭐ 733 | 🐛 5 | 🌐 Kotlin | 📅 2019-06-08 - null
@@ -447,7 +447,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [KBinding](https://github.com/BennyWang/KBinding) ⭐ 404 | 🐛 0 | 🌐 Kotlin | 📅 2017-05-19 - Android MVVM framework write in kotlin.
 * [Kanary](https://github.com/SeunAdelekan/Kanary) ⭐ 337 | 🐛 5 | 🌐 Kotlin | 📅 2023-04-18 - A minimalist web framework for building REST APIs in Kotlin/Java.
 * [FerrisWheelView](https://github.com/iglaweb/Ferris-Wheel) ⭐ 327 | 🐛 3 | 🌐 Kotlin | 📅 2018-10-07 - Simple android library to present an animated ferris wheel.
-* [Wow](https://github.com/Ahoo-Wang/Wow) ⭐ 302 | 🐛 8 | 🌐 Kotlin | 📅 2026-09-12 - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
+* [Wow](https://github.com/Ahoo-Wang/Wow) ⭐ 302 | 🐛 7 | 🌐 Kotlin | 📅 2026-09-13 - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 * [pods4k](https://github.com/daniel-rusu/pods4k) ⭐ 290 | 🐛 1 | 🌐 Kotlin | 📅 2026-06-26 - Performance-oriented data structures for Kotlin, including Immutable Arrays
 * [Wavy Slider](https://github.com/mahozad/wavy-slider) ⭐ 247 | 🐛 7 | 🌐 Kotlin | 📅 2026-07-15 - A demo (and usable) multiplatform Compose library that shows how to make a UI component targeting multiple platforms
 * [Injekt](https://github.com/kohesive/injekt) ⚠️ Archived - native Kotlin dependency injection (object registry style)
@@ -477,7 +477,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [NoiseView](https://github.com/hypeapps/NoiseView) ⭐ 49 | 🐛 1 | 🌐 Kotlin | 📅 2025-09-25 - Android library written in kotlin that add noise effect to image.
 * [Mystique](https://github.com/rahulchowdhury/Mystique) ⭐ 48 | 🐛 0 | 🌐 Kotlin | 📅 2017-06-01 - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list
 * [KBus](https://github.com/adrielcafe/KBus) ⭐ 46 | 🐛 3 | 🌐 Kotlin | 📅 2020-01-25 - Dead simple EventBus for Android made with Kotlin and RxJava 2.
-* [CoSec](https://github.com/Ahoo-Wang/CoSec) ⭐ 46 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-09 - RBAC-based And Policy-based Multi-Tenant Security Framework.
+* [CoSec](https://github.com/Ahoo-Wang/CoSec) ⭐ 46 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-12 - RBAC-based And Policy-based Multi-Tenant Security Framework.
 * [kotlin-core](https://github.com/lightningkite/kotlin-core) ⭐ 37 | 🐛 3 | 🌐 Kotlin | 📅 2020-09-30 and its related reposiories - A full framework for making Android apps.  Based on Anko and Kotson.
 * [Kotlin-Gremlin-OGM](https://github.com/pm-dev/kotlin-gremlin-ogm) ⭐ 34 | 🐛 1 | 🌐 Kotlin | 📅 2019-01-28 - A type-safe object/graph mapping framework for Gremlin enabled graph databases.
 * [Kotlin/Native Runtime for AWS Lambda](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) ⭐ 28 | 🐛 4 | 🌐 Kotlin | 📅 2025-06-01 - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
@@ -495,7 +495,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [kotliny.network](https://github.com/corbella83/kotliny.network) ⭐ 6 | 🐛 0 | 🌐 Kotlin | 📅 2023-07-03 - Simple, powerful and lightweight Kotlin Multiplatform Network Client (JVM, ANDROID, IOS)
 * [Percentage](https://github.com/eriksencosta/math-percentage) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2026-02-07 - Percentage calculations made easy
 * [Math Common](https://github.com/eriksencosta/math-common) ⭐ 3 | 🐛 0 | 🌐 Kotlin | 📅 2025-04-23 - Math conventions to reduce boilerplate code on rounding and exponentiation
-* [lirp](https://github.com/octaviospain/lirp) ⭐ 0 | 🐛 14 | 🌐 Kotlin | 📅 2026-09-06 - Lightweight Reactive Persistence - Elegant object thinking with Domain Driven Design to persist objects reactively.
+* [lirp](https://github.com/octaviospain/lirp) ⭐ 0 | 🐛 14 | 🌐 Kotlin | 📅 2026-09-13 - Lightweight Reactive Persistence - Elegant object thinking with Domain Driven Design to persist objects reactively.
 * [BitDive](https://bitdive.io) - Zero-code integration testing platform that generates tests from runtime application behavior
 * [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
 * [play-billing-samples](https://github.com/android/play-billing-samples) - Samples for Google Play In-app Billing
@@ -512,21 +512,21 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Applications
 
-* [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 62,711 | 🐛 37 | 🌐 Kotlin | 📅 2026-09-12 - The Magic Mask for Android
+* [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 62,742 | 🐛 37 | 🌐 Kotlin | 📅 2026-09-12 - The Magic Mask for Android
 * [iosched](https://github.com/google/iosched) ⚠️ Archived - The Google I/O 2019 Android App
-* [uhabits](https://github.com/iSoron/uhabits) ⭐ 10,235 | 🐛 50 | 🌐 Kotlin | 📅 2026-07-21 - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
-* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,361 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-11 - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-* [KeePassDX](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,284 | 🐛 532 | 🌐 Kotlin | 📅 2026-09-11 - :iphone: KeePass implementation for android with material design and deluxe features
+* [uhabits](https://github.com/iSoron/uhabits) ⭐ 10,237 | 🐛 50 | 🌐 Kotlin | 📅 2026-07-21 - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
+* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,360 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-11 - 🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
+* [KeePassDX](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,293 | 🐛 533 | 🌐 Kotlin | 📅 2026-09-11 - :iphone: KeePass implementation for android with material design and deluxe features
 * [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) ⭐ 6,739 | 🐛 203 | 🌐 Kotlin | 📅 2020-09-30 - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 * [tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 * [fenix](https://github.com/mozilla-mobile/fenix) ⚠️ Archived - Firefox for Android
-* [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) ⭐ 4,953 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-05 - Android application to analyze WiFi signals.
-* [DuckDuckGo](https://github.com/duckduckgo/Android) ⭐ 4,817 | 🐛 168 | 🌐 Kotlin | 📅 2026-09-12 - DuckDuckGo Android App
-* [TapTap](https://github.com/KieronQuinn/TapTap) ⭐ 4,031 | 🐛 16 | 🌐 Kotlin | 📅 2024-10-26 - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
+* [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) ⭐ 4,954 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-12 - Android application to analyze WiFi signals.
+* [DuckDuckGo](https://github.com/duckduckgo/Android) ⭐ 4,816 | 🐛 168 | 🌐 Kotlin | 📅 2026-09-13 - DuckDuckGo Android App
+* [TapTap](https://github.com/KieronQuinn/TapTap) ⭐ 4,033 | 🐛 16 | 🌐 Kotlin | 📅 2024-10-26 - Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device
 * [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,016 | 🐛 384 | 🌐 Kotlin | 📅 2024-08-18 - Browse your memories without any interruptions with this photo and video gallery
-* [vlc-android](https://github.com/videolan/vlc-android) ⭐ 3,992 | 🐛 6 | 🌐 Kotlin | 📅 2026-09-11 -   VLC for Android, Android TV and ChromeOS
-* [kotlinconf-app](https://github.com/JetBrains/kotlinconf-app) ⭐ 3,557 | 🐛 48 | 🌐 Kotlin | 📅 2026-09-09 - KotlinConf Schedule Application
-* [WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) ⭐ 3,152 | 🐛 794 | 🌐 Kotlin | 📅 2026-09-12 - WordPress for Android
+* [vlc-android](https://github.com/videolan/vlc-android) ⭐ 3,995 | 🐛 6 | 🌐 Kotlin | 📅 2026-09-11 -   VLC for Android, Android TV and ChromeOS
+* [kotlinconf-app](https://github.com/JetBrains/kotlinconf-app) ⭐ 3,558 | 🐛 48 | 🌐 Kotlin | 📅 2026-09-09 - KotlinConf Schedule Application
+* [WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) ⭐ 3,152 | 🐛 794 | 🌐 Kotlin | 📅 2026-09-13 - WordPress for Android
 * [orgzly-android](https://github.com/orgzly/orgzly-android) ⭐ 2,815 | 🐛 516 | 🌐 Kotlin | 📅 2026-01-29 - Outliner for taking notes and managing to-do lists
 * [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) ⭐ 2,669 | 🐛 10 | 🌐 Kotlin | 📅 2020-10-02 - Companion App for the book
 * [Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) ⚠️ Archived - Android application compatible with ZX2C4's Pass command line application
@@ -551,22 +551,22 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Samples
 
-* [architecture-samples](https://github.com/android/architecture-samples) ⭐ 45,826 | 🐛 224 | 🌐 Kotlin | 📅 2026-09-09 - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-* [compose-samples](https://github.com/android/compose-samples) ⭐ 23,456 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-10 - Official Jetpack Compose samples.
+* [architecture-samples](https://github.com/android/architecture-samples) ⭐ 45,825 | 🐛 224 | 🌐 Kotlin | 📅 2026-09-09 - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+* [compose-samples](https://github.com/android/compose-samples) ⭐ 23,458 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-10 - Official Jetpack Compose samples.
 * [sunflower](https://github.com/android/sunflower) ⚠️ Archived - A gardening app illustrating Android development best practices with Android Jetpack.
 * [plaid](https://github.com/nickbutcher/plaid) ⭐ 16,173 | 🐛 102 | 🌐 Kotlin | 📅 2024-01-04 - An Android app which provides design news & inspiration as well as being an example of implementing material design.
 * [uamp](https://github.com/android/uamp) ⚠️ Archived - A sample audio app for Android
 * [cheesesquare](https://github.com/chrisbanes/cheesesquare) ⭐ 7,636 | 🐛 18 | 🌐 Kotlin | 📅 2020-12-07 - Demos the new Android Design library.
-* [android-showcase](https://github.com/igorwojda/android-showcase) ⭐ 6,795 | 🐛 15 | 🌐 Kotlin | 📅 2026-09-09 - 💎 Android application following best practices:  Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
+* [android-showcase](https://github.com/igorwojda/android-showcase) ⭐ 6,796 | 🐛 15 | 🌐 Kotlin | 📅 2026-09-09 - 💎 Android application following best practices:  Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
 * [camera-samples](https://github.com/android/camera-samples) ⭐ 5,456 | 🐛 113 | 🌐 Kotlin | 📅 2026-08-10 - Multiple samples showing the best practices in camera APIs on Android.
 * [Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) ⭐ 4,812 | 🐛 73 | 🌐 Kotlin | 📅 2025-04-16 - This is a movies sample app in Kotlin.
 * [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) ⭐ 3,451 | 🐛 18 | 🌐 Kotlin | 📅 2025-09-04 - 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way
 * [kotlin-examples](https://github.com/Kotlin/kotlin-examples) ⚠️ Archived - Various examples for Kotlin
 * [kotlin-examples](https://github.com/JetBrains/kotlin-examples) ⚠️ Archived
-* [MaterialAudiobookPlayer](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) ⭐ 3,128 | 🐛 127 | 🌐 Kotlin | 📅 2026-09-11
+* [MaterialAudiobookPlayer](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) ⭐ 3,129 | 🐛 128 | 🌐 Kotlin | 📅 2026-09-12
 * [Kotlin-Coroutine-Use-Cases-on-Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android) ⭐ 2,879 | 🐛 4 | 🌐 Kotlin | 📅 2026-03-02 - 🎓 Learning Kotlin Coroutines for Android by example.
 * [Kotlin for Android Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) ⭐ 2,669 | 🐛 10 | 🌐 Kotlin | 📅 2020-10-02
-* [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,430 | 🐛 351 | 🌐 Kotlin | 📅 2026-09-09
+* [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,431 | 🐛 353 | 🌐 Kotlin | 📅 2026-09-13
 * [cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ⚠️ Archived - Native Android app using the Apple/Google exposure notification API.
 * [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) ⚠️ Archived - A showcase music app for Android entirely written using Kotlin language
 * [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) ⚠️ Archived
@@ -583,14 +583,14 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 * [PaperPlane](https://github.com/TonnyL/PaperPlane) ⭐ 1,124 | 🐛 3 | 🌐 Kotlin | 📅 2018-06-06 - 📚 PaperPlane - An Android reading app, including articles from Zhihu Daily, Guokr Handpick and Douban Moment.
 * [kotlin-android-examples](https://github.com/amanjeetsingh150/kotlin-android-examples) ⭐ 1,057 | 🐛 5 | 🌐 Kotlin | 📅 2023-04-11 - :muscle: \[Examples] Isolated applications purely on Kotlin, for all android devs out there
 * [YoutubeUX](https://github.com/burhanrashid52/YoutubeUX) ⭐ 862 | 🐛 1 | 🌐 Kotlin | 📅 2021-03-19 - With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
-* [News](https://github.com/AkshayChordiya/News) ⭐ 843 | 🐛 9 | 🌐 Kotlin | 📅 2020-11-03 - A sample News 🗞 app built using Modern Android Development (Architecture Components, Coroutines, Retrofit, Room, Kotlin, Dagger)
+* [News](https://github.com/AkshayChordiya/News) ⭐ 844 | 🐛 9 | 🌐 Kotlin | 📅 2020-11-03 - A sample News 🗞 app built using Modern Android Development (Architecture Components, Coroutines, Retrofit, Room, Kotlin, Dagger)
 * [MovieNight](https://github.com/mrsegev/MovieNight) ⭐ 775 | 🐛 7 | 🌐 Kotlin | 📅 2020-06-09 - MovieNight is a sample Android application that uses the clean architecture approach and is written in Kotlin.
 * [LEGO-Catalog](https://github.com/Eli-Fox/LEGO-Catalog) ⭐ 761 | 🐛 8 | 🌐 Kotlin | 📅 2020-10-01 - A LEGO® Catalog app illustrating current Android Architecture state using Android development best practices.
 * [ArchApp](https://github.com/PhilippeBoisney/ArchApp) ⭐ 616 | 🐛 6 | 🌐 Kotlin | 📅 2020-03-26 - Simple Android app to show how to design a multi-modules MVVM Android app (fully tested)
 * [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) ⭐ 531 | 🐛 4 | 🌐 Kotlin | 📅 2018-02-12
 * [AndroidRivers](https://github.com/dodyg/AndroidRivers) ⭐ 321 | 🐛 5 | 🌐 Java | 📅 2015-10-06
 * [Kotlin101](https://github.com/dodyg/Kotlin101) ⭐ 196 | 🐛 0 | 🌐 Kotlin | 📅 2016-02-24
-* [Candy-Crush-Clone](https://github.com/TobseF/Candy-Crush-Clone) ⭐ 162 | 🐛 0 | 🌐 Kotlin | 📅 2025-10-15 - 🎮🍭 A Kotlin Multiplatform match 3 sample game build with [KorGE](https://github.com/korlibs/korge) ⭐ 3,046 | 🐛 244 | 🌐 Kotlin | 📅 2026-09-08
+* [Candy-Crush-Clone](https://github.com/TobseF/Candy-Crush-Clone) ⭐ 162 | 🐛 0 | 🌐 Kotlin | 📅 2025-10-15 - 🎮🍭 A Kotlin Multiplatform match 3 sample game build with [KorGE](https://github.com/korlibs/korge) ⭐ 3,047 | 🐛 244 | 🌐 Kotlin | 📅 2026-09-08
 * [architecture-components-samples](https://github.com/android/architecture-components-samples) ⚠️ Archived - Samples for Android Architecture Components.
 * [kotlillon](https://github.com/inaka/kotlillon) ⭐ 32 | 🐛 1 | 🌐 Kotlin | 📅 2016-03-07
 * [Today History](https://github.com/MakinGiants/todayhistory) ⚠️ Archived
@@ -655,8 +655,8 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ## Tools
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,050 | 🐛 196 | 🌐 Kotlin | 📅 2026-09-10 - Static code analysis for Kotlin.
-* [dokka](https://github.com/Kotlin/dokka) ⭐ 3,806 | 🐛 671 | 🌐 Kotlin | 📅 2026-09-11 - Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java.
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,050 | 🐛 199 | 🌐 Kotlin | 📅 2026-09-12 - Static code analysis for Kotlin.
+* [dokka](https://github.com/Kotlin/dokka) ⭐ 3,806 | 🐛 672 | 🌐 Kotlin | 📅 2026-09-11 - Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java.
 * [kscript](https://github.com/holgerbrandl/kscript) ⭐ 2,121 | 🐛 43 | 🌐 Kotlin | 📅 2025-06-24 - Enhanced scripting support for Kotlin on \*nix-based systems.
 * [kotlin-jupyter](https://github.com/Kotlin/kotlin-jupyter) ⭐ 1,228 | 🐛 94 | 🌐 Kotlin | 📅 2026-07-23 - Kotlin kernel for Jupyter/IPython
 * [CodeGlance](https://github.com/Vektah/CodeGlance) ⭐ 1,051 | 🐛 64 | 🌐 Kotlin | 📅 2021-06-15 - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
@@ -695,4 +695,4 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
